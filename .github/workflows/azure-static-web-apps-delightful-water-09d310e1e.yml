@@ -1,13 +1,13 @@
 name: COVID-19 Storybook
-# https://mango-ground-0e0ee551e.azurestaticapps.net/
+# https://delightful-water-09d310e1e.azurestaticapps.net/
 on:
   push:
     branches:
-      - storybook
+      - main
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
-      - storybook
+      - main
 
 jobs:
   build_and_deploy_job:

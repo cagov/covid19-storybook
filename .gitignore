@@ -33,3 +33,4 @@ js/rollup.config.es5.js
 js/rollup.config.js
 js/tracking-you/
 css
+storybook-static/*

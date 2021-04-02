@@ -21,7 +21,7 @@ jobs:
       - name: Run local build
         run: |
           npm install
-          npm run build-storybook
+          npm run build
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview

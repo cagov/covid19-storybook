@@ -1,0 +1,399 @@
+{
+    "records": [
+        {
+            "id": "recoduzFGOLNL419R",
+            "fields": {
+                "activity_data_key": "cohorts",
+                "activity_search_autocomplete": "Cohorts for children and youth in supervised settings",
+                "activity_key": "cohorts",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recpLmOJPsalTha1h",
+            "fields": {
+                "activity_data_key": "live-theater",
+                "activity_search_autocomplete": "Live theater",
+                "activity_key": "live-theater",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Closed",
+                "1 - MINIMAL": "Closed",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recqUXiJzUtX6oEox",
+            "fields": {
+                "activity_data_key": "skateparks",
+                "activity_search_autocomplete": "Skateparks",
+                "industry_category": "Outdoor recreation, including campgrounds, playgrounds and ski resorts",
+                "activity_key": "skateparks",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recs8lOYeW5cDku2J",
+            "fields": {
+                "activity_data_key": "handy-persons-general-contractors",
+                "activity_search_autocomplete": "Handypersons/general contractors",
+                "activity_key": "handy-persons-general-contractors",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recsAORuyEILRZMBN",
+            "fields": {
+                "activity_data_key": "government-services",
+                "activity_search_autocomplete": "Government services",
+                "activity_key": "government-services",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recsT0kP2jRgoDYsv",
+            "fields": {
+                "activity_data_key": "aquariums",
+                "activity_search_autocomplete": "Aquariums",
+                "activity_key": "aquariums",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Indoor activities max 25% capacity",
+                "2 - MODERATE": "Can open indoors with modifications - Indoor activities max 50% capacity",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rectHJfTGn6Arent9",
+            "fields": {
+                "activity_data_key": "agriculture",
+                "activity_search_autocomplete": "Agriculture and livestock",
+                "activity_key": "agriculture",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rectm6MYKFY26Gwa3",
+            "fields": {
+                "activity_data_key": "auto-repair-shops",
+                "activity_search_autocomplete": "Auto repair shops",
+                "activity_key": "auto-repair-shops",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recu2La98DtKUpF0X",
+            "fields": {
+                "activity_data_key": "police-stations",
+                "activity_search_autocomplete": "Police stations",
+                "industry_category": "Police stations",
+                "activity_key": "police-stations",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recuftBHboaoFpfzU",
+            "fields": {
+                "activity_data_key": "synagogues",
+                "activity_search_autocomplete": "Synagogues",
+                "activity_key": "synagogues",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recvHMCmYBZRhfFip",
+            "fields": {
+                "activity_data_key": "indoor-playgrounds",
+                "activity_search_autocomplete": "Indoor playgrounds (bounce centers/ball pits/laser tag)",
+                "activity_key": "indoor-playgrounds",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Can open indoors for naturally distanced activities, with modifications - Max 25% capacity - Bowling alleys - Climbing walls",
+                "1 - MINIMAL": "Can open indoors for activities with increased risk of proximity and mixing, with modifications - Max 50% capacity - Arcade games - Ice and roller skating",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recvHb4xiQ9Tic3Qg",
+            "fields": {
+                "activity_data_key": "campgrounds",
+                "activity_search_autocomplete": "Campgrounds",
+                "activity_key": "campgrounds",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Closed unless used for COVID-19 mitigation and containment measures, treatment measures, providing accommodation for essential workers or those displaced as a result of fire or other emergency, or providing housing solutions, including measures to protect homeless populations. ",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recvLsJWoiSywp5zE",
+            "fields": {
+                "activity_data_key": "food-banks",
+                "activity_search_autocomplete": "Food banks",
+                "activity_key": "food-banks",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recw6c8Xtr4pVMIC3",
+            "fields": {
+                "activity_data_key": "delivery-services",
+                "activity_search_autocomplete": "Delivery services",
+                "activity_key": "delivery-services",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recwYDX00l9tnw56c",
+            "fields": {
+                "activity_data_key": "electricians",
+                "activity_search_autocomplete": "Electricians",
+                "activity_key": "electricians",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recwvL4SPoIHvzkU1",
+            "fields": {
+                "activity_data_key": "transit-rail",
+                "activity_search_autocomplete": "Public transit and intercity passenger rail",
+                "activity_key": "transit-rail",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recxFqH8TVqbIXLGR",
+            "fields": {
+                "activity_data_key": "music-tv-film",
+                "activity_search_autocomplete": "Music, film, and TV production",
+                "activity_key": "music-tv-film",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recxja4zH4bJhQesY",
+            "fields": {
+                "activity_data_key": "outdoor-live-professional-sports",
+                "activity_search_autocomplete": "Racetracks",
+                "industry_category": "Professional sports",
+                "activity_key": "outdoor-live-professional-sports",
+                "4 - WIDESPREAD": "Can open with modifications<br>– Permanent venues with live audiences outdoors only<br>– Max 25% capacity<br>– Regional attendees only (within 120 miles)<br>– Reservations required<br>– Assigned seating only<br>– In-seat concessions only (no concourse sales)",
+                "3 - SUBSTANTIAL": "Can open with modifications<br>– Permanent venues with live audiences outdoors only<br>– Max 20% capacity<br>– Regional attendees only (within 120 miles)<br>– Reservations required<br>– Assigned seating only<br>– In-seat concessions only (no concourse sales)",
+                "2 - MODERATE": "Can open with modifications<br>– No live audiences",
+                "1 - MINIMAL": "Can open with modifications<br>– No live audiences",
+                "RSHO": "Can open with modifications<br>– No live audience",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recyXFJX1t9UdPMW7",
+            "fields": {
+                "activity_data_key": "carwashes",
+                "activity_search_autocomplete": "Carwashes",
+                "activity_key": "carwashes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recygQDk0rHq8xHUS",
+            "fields": {
+                "activity_data_key": "youth-sports",
+                "activity_search_autocomplete": "Youth and adult recreational sports",
+                "activity_key": "youth-sports",
+                "4 - WIDESPREAD": "Outdoor low-contact sports allowed: (list)",
+                "3 - SUBSTANTIAL": "Outdoor moderate-contact sports allowed: (list)",
+                "2 - MODERATE": "Outdoor high-contact sports allowed: (list) Indoor low-contact sports allowed:  (list)",
+                "1 - MINIMAL": "Indoor moderate-contact sports allowed: (list) Indoor high-contact sports allowed:  (list)",
+                "RSHO": "?",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recypjfF7Zqn4lDLF",
+            "fields": {
+                "activity_data_key": "music-production",
+                "activity_search_autocomplete": "Music production",
+                "activity_key": "music-production",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recyyoTh6TlaNB9o9",
+            "fields": {
+                "activity_data_key": "pet-groomers",
+                "activity_search_autocomplete": "Pet groomers",
+                "industry_category": "Limited services",
+                "activity_key": "pet-groomers",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recztRbBzrDG15td3",
+            "fields": {
+                "activity_data_key": "office-workspaces",
+                "activity_search_autocomplete": "Office workspaces",
+                "industry_category": "Office workspaces",
+                "activity_key": "office-workspaces",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        }
+    ]
+}

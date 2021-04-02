@@ -1,0 +1,642 @@
+{
+    "records": [
+        {
+            "id": "rec0729VPjP4XjcoM",
+            "fields": {
+                "id": "Lake",
+                "county_label": "Lake County",
+                "county_covid19_website": "http://health.co.lake.ca.us/Coronavirus/Businesses.htm",
+                "county_department": "Lake County Public Health",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rec1krEK3N3B5A76g",
+            "fields": {
+                "id": "Inyo",
+                "county_label": "Inyo County",
+                "county_covid19_website": "https://www.inyocounty.us/covid-19/reopening-inyo-businesses",
+                "county_department": "Inyo County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rec24FaH7xWAbGIxw",
+            "fields": {
+                "id": "San Francisco",
+                "county_label": "City and County of San Francisco",
+                "county_covid19_website": "https://sf.gov/operate-your-business-during-coronavirus-pandemic",
+                "county_department": "San Francisco Department of Public Health",
+                "last_modified_time": "2020-12-18T17:37:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rec3AlIAJyOXDeqxL",
+            "fields": {
+                "id": "Tehama",
+                "county_label": "Tehama County",
+                "county_covid19_website": "http://www.tehama4business.org/covid-19-resources",
+                "county_department": "Tehama County Health Services Monday-Friday Business Hours",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rec3Am1my6xZct5LY",
+            "fields": {
+                "id": "Riverside",
+                "county_label": "Riverside County",
+                "county_covid19_website": "https://www.riversideca.gov/press/covid-19-business-resources",
+                "county_department": "Riverside County Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rec47YJk1aEVxIeJP",
+            "fields": {
+                "id": "Imperial",
+                "county_label": "Imperial County",
+                "county_covid19_website": "http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/guidance-and-resources/businesses/",
+                "county_department": "Imperial County Public Health Department",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rec7vrBQ3NQ8lslP5",
+            "fields": {
+                "id": "Madera",
+                "county_label": "Madera County",
+                "county_covid19_website": "https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covidinfobusinesses",
+                "county_department": "Madera County Department of Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recA3QPGrmfMJAIuy",
+            "fields": {
+                "id": "Siskiyou",
+                "county_label": "Siskiyou County",
+                "county_covid19_website": "https://www.co.siskiyou.ca.us/publichealth/page/covid-19-current-situation",
+                "county_department": "Siskiyou County Public Health Main",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recBKrvRxhhV9sX2R",
+            "fields": {
+                "id": "Contra Costa",
+                "county_label": "Contra Costa County",
+                "county_covid19_website": "https://www.coronavirus.cchealth.org/for-businesses",
+                "county_department": "Contra Costa Health Services",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recCJwKGRAVwPqKZf",
+            "fields": {
+                "id": "Santa Barbara",
+                "county_label": "Santa Barbara County",
+                "county_covid19_website": "https://recoverysbc.org/reopen-your-business/",
+                "county_department": "Santa Barbara County Public Health Department",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recCumOIx5AeIPoQv",
+            "fields": {
+                "id": "Placer",
+                "county_label": "Placer County",
+                "county_covid19_website": "https://www.placer.ca.gov/reopen/guidance",
+                "county_department": "Placer County Public Health and Human Services",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recFiH2nHvE4mRZIJ",
+            "fields": {
+                "id": "Calveras",
+                "county_label": "Calveras County",
+                "county_covid19_website": "https://covid19.calaverasgov.us/Resources/Businesses#gsc.tab=0",
+                "county_department": "Calveras County Environmental Health Department",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recGbaqqmAaTcSH2Z",
+            "fields": {
+                "id": "Yolo",
+                "county_label": "Yolo County",
+                "county_covid19_website": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/covid-19-business-toolkit",
+                "county_department": "Yolo County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recHPbB2CdL2rf0Xj",
+            "fields": {
+                "id": "Los Angeles",
+                "county_label": "Los Angeles County",
+                "county_covid19_website": "https://covid19.lacounty.gov/covid19-2-2/consumers-businesses/for-businesses/",
+                "county_department": "Los Angeles County Department of Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recHTYI2dO3CUHQPk",
+            "fields": {
+                "id": "Solano",
+                "county_label": "Solano County",
+                "county_covid19_website": "https://www.solanocounty.com/depts/ph/coronavirus_links/roadmap_to_recovery.asp",
+                "county_department": "Solano County Public Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recHl6ZKIFsW402Zj",
+            "fields": {
+                "id": "Santa Cruz",
+                "county_label": "Santa Cruz County",
+                "county_covid19_website": "https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome/PublicInformation/Employers.aspx",
+                "county_department": "Santa Cruz Health Services Agency",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recIRRalY8aSEps9f",
+            "fields": {
+                "id": "San Benito",
+                "county_label": "San Benito County",
+                "county_covid19_website": "https://hhsa.cosb.us/public-health/covid-19/",
+                "county_department": "San Benito County Health and Human Services Agency",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recIpHLgSrAY24gi7",
+            "fields": {
+                "id": "Humboldt",
+                "county_label": "Humboldt County",
+                "county_covid19_website": "https://humboldtgov.org/2756/Business-Compliance",
+                "county_department": "Humboldt County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recKdsCEJCWXsox4r",
+            "fields": {
+                "id": "Modoc",
+                "county_label": "Modoc County",
+                "county_covid19_website": "http://modochealthservices.org/public-health-news/268-blueprint-for-a-safer-economy",
+                "county_department": "Modoc County Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recLltiN6bMDlIOvd",
+            "fields": {
+                "id": "Nevada",
+                "county_label": "Nevada County",
+                "county_covid19_website": "https://www.mynevadacounty.com/2927/Coronavirus-Guidance-for-BusinessesEmplo",
+                "county_department": "Nevada County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recLq8UkEYm3IoHHY",
+            "fields": {
+                "id": "Marin",
+                "county_label": "Marin County",
+                "county_covid19_website": "https://marinrecovers.com/businesses/",
+                "county_department": "Marin County Communicable Disease Prevention & Control",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recMwWroCHKMZ8fhU",
+            "fields": {
+                "id": "Alameda",
+                "county_label": "Alameda County",
+                "county_covid19_website": "https://covid-19.acgov.org/recovery.page",
+                "county_department": "Alameda County Public Health Department",
+                "last_modified_time": "2020-12-24T00:14:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recNAEB3Le8XUj8mt",
+            "fields": {
+                "id": "Sonoma",
+                "county_label": "Sonoma County",
+                "county_covid19_website": "https://socoemergency.org/emergency/novel-coronavirus/resources-for-you/businesses/covid-19-workplace-exposure-guidelines-for-employers/",
+                "county_department": "Sonoma County Public Health Division",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recNkgPgYwYCdMXIH",
+            "fields": {
+                "id": "Napa",
+                "county_label": "Napa County",
+                "county_covid19_website": "https://www.countyofnapa.org/2840/Industry-Guidance",
+                "county_department": "Napa County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recO4Tpi7KyKjWaN8",
+            "fields": {
+                "id": "San Luis Obispo",
+                "county_label": "County of San Luis Obispo",
+                "county_covid19_website": "https://www.emergencyslo.org/en/guidanceforsafeoperations.aspx",
+                "county_department": "County of San Luis Obispo Public Health Department",
+                "last_modified_time": "2020-12-18T17:37:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recPKMxDPd6a4qw7q",
+            "fields": {
+                "id": "San Mateo",
+                "county_label": "San Mateo County",
+                "county_covid19_website": "https://www.smchealth.org/post/covid-19-requirements-resources",
+                "county_department": "San Mateo County Public Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recPpU2P4zyNiREtm",
+            "fields": {
+                "id": "Tulare",
+                "county_label": "Tulare County",
+                "county_covid19_website": "https://covid19.tularecounty.ca.gov/business-and-financial-resources/reopening-your-business/",
+                "county_department": "Tulare County Health and Human Services Agency-Public Health Branch",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recT8S3EyNPUxkQGu",
+            "fields": {
+                "id": "Shasta",
+                "county_label": "Shasta County",
+                "county_covid19_website": "https://www.co.shasta.ca.us/ready/covid-19/overview",
+                "county_department": "Shasta County Health and Human Services Agency",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recTSnB2Yqo9FjPWB",
+            "fields": {
+                "id": "Ventura",
+                "county_label": "Ventura County",
+                "county_covid19_website": "https://www.venturacountyrecovers.org/business-registration/",
+                "county_department": "Ventura County Health Care Agency",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recTmvK8TXkVnSR4v",
+            "fields": {
+                "id": "Sutter",
+                "county_label": "Sutter County",
+                "county_covid19_website": "https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus/businessResources",
+                "county_department": "Sutter County Public Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recUJrsMUs6O48Vut",
+            "fields": {
+                "id": "San Joaquin",
+                "county_label": "San Joaquin County",
+                "county_covid19_website": "http://www.sjready.org/events/covid19/employer-resources.html",
+                "county_department": "San Joaquin County Public Health Department",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recV52ubBcuX2344d",
+            "fields": {
+                "id": "Kern ",
+                "county_label": "Kern County",
+                "county_covid19_website": "https://kernpublichealth.com/coronavirus-information-for-businesses-and-workers/",
+                "county_department": "Kern County Public Health",
+                "last_modified_time": "2020-12-18T17:37:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recWWetmRCn3wH09T",
+            "fields": {
+                "id": "El Dorado",
+                "county_label": "El Dorado County",
+                "county_covid19_website": "https://www.edcgov.us/Government/hhsa/Pages/EDCCOVID-19-Guidance.aspx",
+                "county_department": "El Dorado County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recYcQ6WE9KZHYPix",
+            "fields": {
+                "id": "Santa Clara",
+                "county_label": "Santa Clara County",
+                "county_covid19_website": "https://www.sccgov.org/sites/covid19/Pages/business-guidance.aspx",
+                "county_department": "Santa Clara County Public Health Department",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recZOdo5mdK74al6L",
+            "fields": {
+                "id": "Del Norte",
+                "county_label": "County of Del Norte",
+                "county_covid19_website": "https://www.covid19.dnco.org/business-support",
+                "county_department": "County of Del Norte Public Health",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recZhWc2Fu9T5xYtd",
+            "fields": {
+                "id": "Merced",
+                "county_label": "Merced County",
+                "county_covid19_website": "https://reopenmercedcounty.com/guidelines/",
+                "county_department": "Merced County Department of Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recaP8ORh1aYloh7A",
+            "fields": {
+                "id": "Fresno",
+                "county_label": "Fresno County",
+                "county_covid19_website": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+                "county_department": "Fresno County Public Health",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recagwq6afvUXFGZL",
+            "fields": {
+                "id": "San Bernardino",
+                "county_label": "San Bernardino County",
+                "county_covid19_website": "https://sbcovid19.com/ ",
+                "county_department": "San Bernardino County Department of Public Healt",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recahuhIDeM2sXHcZ",
+            "fields": {
+                "id": "Tuolumne",
+                "county_label": "Tuolumne County",
+                "county_covid19_website": "https://covid19portal-tuolumne.hub.arcgis.com/",
+                "county_department": "Tuolumne County Public Health Department",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recemRFcGCgAtohIR",
+            "fields": {
+                "id": "Monterey",
+                "county_label": "Monterey County",
+                "county_covid19_website": "https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-2019-ncov/2019-novel-coronavirus-2019-ncov-for-schools-businesses",
+                "county_department": "Monterey County Health Department (broken website)",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recfHTERpZkiYen0n",
+            "fields": {
+                "id": "Mono",
+                "county_label": "Mono County",
+                "county_covid19_website": "https://coronavirus.monocounty.ca.gov/pages/businesses",
+                "county_department": "Mono County Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rechabJml1bGaYi2S",
+            "fields": {
+                "id": "Colusa",
+                "county_label": "Colusa County",
+                "county_covid19_website": "https://www.countyofcolusa.org/901/Business-and-Industry-Resources",
+                "county_department": "Colusa County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recjs8JN23nZOrSg5",
+            "fields": {
+                "id": "Butte",
+                "county_label": "Butte County",
+                "county_covid19_website": "http://www.buttecounty.net/publichealth/buttereopens",
+                "county_department": "Butte County Public Health Department",
+                "last_modified_time": "2020-12-24T00:14:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "reckGRt3NlDk9FL3O",
+            "fields": {
+                "id": "Stanislaus",
+                "county_label": "Stanislaus County",
+                "county_covid19_website": "https://www.good2gostanislaus.com",
+                "county_department": "Stanislaus County Public Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recls4pnZYZzr1daz",
+            "fields": {
+                "id": "Kings",
+                "county_label": "Kings County",
+                "county_covid19_website": "https://www.countyofkings.com/departments/administration/reopen-kings",
+                "county_department": "Kings County Health Department",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "reclx1fYbysR8G5db",
+            "fields": {
+                "id": "Trinity",
+                "county_label": "Trinity County",
+                "county_covid19_website": "https://www.trinitycounty.org/Business-Certification",
+                "county_department": "Trinity County Public Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recmCTyo6oyULc2aU",
+            "fields": {
+                "id": "Sierra",
+                "county_label": "Sierra County",
+                "county_covid19_website": "https://sierracounty.ca.gov/599/Business-Reopening-Plan-Documents",
+                "county_department": "Sierra County Public Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recnZ2lMTii306gmE",
+            "fields": {
+                "id": "Plumas",
+                "county_label": "Plumas County",
+                "county_covid19_website": "https://www.plumascounty.us/2707/Re-Opening-Guidance-Formerly-Businesses",
+                "county_department": "Plumas County Public Health Agency",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recnuJ7zCYfJegFc0",
+            "fields": {
+                "id": "Lassen",
+                "county_label": "Lassen County",
+                "county_covid19_website": "https://lassencares.org/health-informed-reopening",
+                "county_department": "Lassen County Public Health Department",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recoNhvFI9rnklPqP",
+            "fields": {
+                "id": "Sacramento",
+                "county_label": "Sacramento County",
+                "county_covid19_website": "https://emd.saccounty.net/EMD-COVID-19-Information/Pages/default.aspx",
+                "county_department": "Sacramento County Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recpTNk48OdEtZD0h",
+            "fields": {
+                "id": "Alpine",
+                "county_label": "Alpine County",
+                "county_covid19_website": "http://alpinecountyca.gov/Index.aspx?NID=516",
+                "county_department": "Alpine County Health and Human Services",
+                "last_modified_time": "2020-12-24T00:14:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recqiLDPc8k0LYs9H",
+            "fields": {
+                "id": "Mariposa",
+                "county_label": "Mariposa County",
+                "county_covid19_website": "https://www.mariposacounty.org/2373/COVID-19-Business-Resource-Page",
+                "county_department": "Mariposa County Public Health Department",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recswsPRDkRsCqqdx",
+            "fields": {
+                "id": "Amador",
+                "county_label": "Amador County",
+                "county_covid19_website": "https://www.amadorgov.org/services/public-health/road-to-recovery/guidance-for-businesses",
+                "county_department": "Amador County Public Health",
+                "last_modified_time": "2020-12-24T00:14:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "rectg39LyhFJKiFty",
+            "fields": {
+                "id": "Yuba",
+                "county_label": "Yuba County",
+                "county_covid19_website": "https://yestoyuba.com/",
+                "county_department": "Yuba County Environmental Health",
+                "last_modified_time": "2020-12-24T00:19:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recvWmLgKHiwVA8VR",
+            "fields": {
+                "id": "San Diego",
+                "county_label": "San Diego County",
+                "county_covid19_website": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/reopening.html",
+                "county_department": "San Diego County Public Health Services",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recvbiAsTZWCDXbxu",
+            "fields": {
+                "id": "Mendocino",
+                "county_label": "Mendocino County",
+                "county_covid19_website": "https://www.mendocinocounty.org/business/business-resource-for-covid-19",
+                "county_department": "Mendocino County Public Health",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recwZ7QCznYfIA5Vp",
+            "fields": {
+                "id": "Orange",
+                "county_label": "Orange County",
+                "county_covid19_website": "https://occovid19.ochealthinfo.com/blueprint-safer-economy",
+                "county_department": "Orange County Health Care Agency",
+                "last_modified_time": "2020-12-24T00:18:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        },
+        {
+            "id": "recyOCR5tALqYKr21",
+            "fields": {
+                "id": "Glenn",
+                "county_label": "Glenn County",
+                "county_covid19_website": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19/covid-19-guidance-and-reopening-information",
+                "county_department": "Glenn County Public Health",
+                "last_modified_time": "2020-12-24T00:17:00.000Z"
+            },
+            "createdTime": "2020-12-18T15:20:26.000Z"
+        }
+    ]
+}

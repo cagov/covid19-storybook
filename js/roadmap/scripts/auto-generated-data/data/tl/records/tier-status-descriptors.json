@@ -1,0 +1,62 @@
+{
+  "Table1": [
+    {
+      "County tier": "Kaunti",
+      "colorLabel": "Dilaw",
+      "_Color label": "Yellow",
+      "New cases": "Wala pang 1.0",
+      "Positive tests": "Wala pang 2.0%",
+      "description": "Bukas ang karamihan sa indoor na pagpapatakbo ng negosyo nang may mga modipikasyon",
+      "Positive-heq": "Wala pang 2.2%"
+    },
+    {
+      "County tier": "Katamtaman",
+      "colorLabel": "Orange",
+      "_Color label": "Orange",
+      "New cases": "1.0 – 3.9",
+      "Positive tests": "2.0 – 4.9% ",
+      "description": "Bukas ang ilang indoor na pagpapatakbo ng negosyo nang may mga modipikasyon",
+      "Positive-heq": "2.2 – 5.2%"
+    },
+    {
+      "County tier": "Marami",
+      "colorLabel": "Pula",
+      "_Color label": "Red",
+      "New cases": "4.0 – 7.0",
+      "Positive tests": "5.0 – 8.0%",
+      "description": "Sarado ang ilang hindi mahahalagang operasyon ng indoor na negosyo",
+      "Positive-heq": "5.3 – 8.0%"
+    },
+    {
+      "County tier": "Napakarami",
+      "colorLabel": "Purple",
+      "_Color label": "Purple",
+      "New cases": "Mahigit sa 7.0",
+      "Positive tests": "Mahigit sa 8.0%",
+      "description": "Sarado ang maraming hindi mahahalagang operasyon ng indoor na negosyo",
+      "Positive-heq": ""
+    }
+  ],
+  "Table2": [
+    {
+      "_id": "Header – county risk level",
+      "text": "Antas ng panganib sa county"
+    },
+    {
+      "_id": "Header – new cases",
+      "text": "Na-adjust na rate ng kaso"
+    },
+    {
+      "_id": "Header – positive tests",
+      "text": "Rate ng nagpopositibo"
+    },
+    {
+      "_id": "Description – new cases",
+      "text": "Mga bagong kaso araw-araw (bawat 100k)"
+    },
+    {
+      "_id": "Description – positive cases",
+      "text": "Mga positibong pagsusuri"
+    }
+  ]
+}

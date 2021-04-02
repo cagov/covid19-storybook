@@ -1,0 +1,9 @@
+{
+  "Table6": [
+    {
+      "schools_may_reopen": "학교는 정상적인 대면 수업을 재개할 수도 있습니다. 지역 내 교육 담당자가 재개 여부와 시기를 결정하게 됩니다.",
+      "schools_may_not_reopen": "해당 카운티가 실질(적색) 단계에 5일 동안 속해 있었을 경우 학교는 정상적인 대면 수업을 재개할 수도 있습니다. 교육 담당자는 소규모 집단에 속하는 제한된 학생들에 대해 <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx\">대면 수업을 실시하기로 결정할 수도 있습니다</a>.<br><br>예외 사항에 관한 주의: 더 낮은 수준의 제한 조치를 취한 카운티에서 이미 수업을 재개한 학교는 수업을 중단할 필요가 없습니다. 그러나 학교가 아직 대면 수업을 재개하지 않은 경우, 카운티가 5일 연속 상당(적색) 단계로 재이동할 때까지는 수업 재개가 어려울 수도 있습니다.",
+      "schools_info": "<a href=\"https://schools.covid19.ca.gov/\">캘리포니아 모두에게 안전한 학교 허브(CA Safe Schools for All hub)</a>, <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Consolidated_Schools_Guidance.pdf\">학교 지침</a> 및 <a href=\"https://files.covid19.ca.gov/pdf/guidance-schools-cohort-FAQ.pdf\">동일 집단 관련 자주 묻는 질문</a>을 참조하십시오."
+    }
+  ]
+}

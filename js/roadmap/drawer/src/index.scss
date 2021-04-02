@@ -1,0 +1,171 @@
+@import './../../../menu/scss/_globals.scss';
+
+/* drawer component specific classes */
+cagov-drawer .card {
+    border-radius: 0 !important;
+    border: none;
+    margin-bottom: 0;
+  }
+  
+  cagov-drawer .card-container {
+    display: block;
+    overflow: hidden;
+    transition: height 0.3s;
+    &[aria-hidden="false"] {
+      // border-bottom: 1px solid $darkblue;
+    }
+  }
+  
+  cagov-drawer.prog-enhanced .card-container {
+    height: 0px;
+  }
+  
+  cagov-drawer .collapsed {
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+  }
+  
+  .card-header .button {
+    color: #000;
+  }
+  
+  .drawer {
+    margin-bottom: 20px;
+  }
+  
+  .drawer-title {
+    padding: 0.5rem;
+    text-align: left;
+    margin-bottom: 0;
+    color: $darkblue;
+    margin-right: auto;
+    width: 90%;
+    h4,
+    h3,
+    h2 {
+      padding: 0 !important;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+      font-family: "Roboto", sans-serif;
+      font-size: 1.2rem !important;
+      font-weight: 700;
+      color: $darkblue;
+      text-align: left !important;
+    }
+  }
+  
+  button.card-header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 1rem 0.75rem;
+    background-clip: border-box;
+    background-color: $white;
+    border: none;
+    // border-bottom: 1px solid $darkblue;
+    // border-top: 1px solid $darkblue;
+    // border-radius: 0 !important;
+    margin-top: -1px;
+    &:hover {
+      background-color: $lightestblue;
+    }
+    &:focus {
+      outline-offset: -2px;
+    }
+  }
+  
+  .prog-enhanced .drawer-alpha .plus-munus {
+    width: 2.125rem;
+    height: 2.125rem;
+    border: 2px solid $orange;
+    border-radius: 50%;
+    padding: 0.02rem 0;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    margin-left: 1rem;
+    color: $orange;
+    align-self: flex-start;
+    cagov-plus .drawer-icon {display: block;}
+    cagov-minus .drawer-icon {display: none;}
+  }
+  
+  .prog-enhanced .drawer-alpha-open {
+    border-bottom-color: $white !important;
+    cagov-plus .accordion-icon {display: none !important;}
+    cagov-minus .accordion-icon {display: block !important;}
+  }
+  @function tint($color, $percentage) {
+    @return mix(white, $color, $percentage);
+  }
+  
+  
+  //Dark drawer
+  
+  // first sibling
+  .dark-drawer-bg > .container.dark-drawer-first {
+    padding-top: 3rem;
+    margin-top: 3rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  // stand alone
+  .dark-drawer-bg > .container {
+    padding-top: 3rem;
+    margin-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+  }
+  // siblings (in the middle)
+  .dark-drawer-sibling > .container {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+  }
+  // last sibling (with many siblings)
+  .dark-drawer-sibling + .dark-drawer-bg > .container {
+    padding-top: 0rem;
+    margin-top: 0rem;
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+  }
+  
+  
+  
+  .dark-drawer-bg {
+    .card {
+      background-color: $darkblue;
+      .drawer-alpha {
+        // background-color: $darkblue;
+        // border-bottom: 1px solid tint($darkblue, 20%);
+        // border-top: 1px solid tint($darkblue, 20%);
+        &.drawer-alpha-open {
+          // border-bottom-color: $darkblue !important;
+        }
+        &:hover, &:focus {
+          // background-color: $blue;
+        }
+        .drawer-title {
+          color: $white;
+          h4,
+          h3,
+          h2 {
+            color: $white;
+          }
+        }
+      }
+  
+      //dark drawer content
+      .card-container {
+        &[aria-hidden="false"] {
+          // border-bottom: 1px solid tint($darkblue, 20%);
+        }
+        color: $white;
+        h2, h3, h4, h5 {
+          color: $white;
+        }
+      }
+  
+    }
+  }

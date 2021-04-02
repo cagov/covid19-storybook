@@ -1,0 +1,14 @@
+{
+  "title": "Find the status for activities in your county",
+  "activityLabel": "Activity",
+  "activityPlaceholder": "Enter a business or activity",
+  "countyLabel": "County",
+  "countyPlaceholder": "Enter county",
+  "buttonText": "Get latest risk levels",
+  "clearText": "Clear",
+  "seeGuidanceText": "See guidance for",
+  "countyRestrictionsAdvice": "Counties can restrict further. Check your",
+  "countyRestrictionsCountyWebsite": "county’s website",
+  "understandTheData": "Understand the data.",
+  "regionLabel": "Region:"
+}

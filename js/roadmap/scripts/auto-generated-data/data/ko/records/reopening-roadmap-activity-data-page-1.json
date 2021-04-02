@@ -1,0 +1,1761 @@
+{
+    "records": [
+        {
+            "id": "rec0t9zNfaLEuyKWR",
+            "fields": {
+                "activity_data_key": "home-furnishings",
+                "activity_search_autocomplete": "Home and furnishing stores",
+                "activity_key": "home-furnishings",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec25sR9jTmtcGRaZ",
+            "fields": {
+                "activity_data_key": "estheticians",
+                "activity_search_autocomplete": "Estheticians",
+                "industry_category": "Personal care services",
+                "activity_key": "estheticians",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed except for physician-ordered electrology services",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec2kKjZDCTkstjaX",
+            "fields": {
+                "activity_data_key": "temples",
+                "activity_search_autocomplete": "Temples",
+                "activity_key": "temples",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec31ILlaRp96rGO8",
+            "fields": {
+                "activity_data_key": "shopping-centers",
+                "activity_search_autocomplete": "Shopping centers",
+                "activity_key": "shopping-centers",
+                "4 - WIDESPREAD": "Can open indoors with modifications - Max 25% capacity - Closed common areas - Closed food courts",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 50% capacity - Closed common areas - Reduced capacity food courts (see Restaurants)",
+                "2 - MODERATE": "Can open indoors with modifications - Closed common areas - Reduced capacity food courts (see Restaurants)",
+                "1 - MINIMAL": "Can open with modifications - Reduced capacity food courts (see Restaurants)",
+                "RSHO": "Can open indoors with modifications - Max 20% capacity - Closed common areas - Closed food courts",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec3DVTzXYlWNb4Ll",
+            "fields": {
+                "activity_data_key": "professional-sports",
+                "activity_search_autocomplete": "Professional sports",
+                "activity_key": "professional-sports",
+                "4 - WIDESPREAD": "Can open with modifications - No live audience",
+                "3 - SUBSTANTIAL": "Can open with modifications - No live audience",
+                "2 - MODERATE": "Can open with modifications - Permanent venues with live audiences outdoors only - Max 20% capacity - Regional attendees only (within 120 miles) - Reservations required - Assigned seating only - In-seat concessions only (no concourse sales)",
+                "1 - MINIMAL": "Can open with modifications - Permanent venues with live audiences outdoors only - Max 25% capacity - Regional attendees only (within 120 miles) - Reservations required - Assigned seating only - In-seat concessions only (no concourse sales)",
+                "RSHO": "Can open with modifications - No live audience",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec4JNpkHC41ZZHkm",
+            "fields": {
+                "activity_data_key": "real-estate",
+                "activity_search_autocomplete": "Real estate transactions",
+                "activity_key": "real-estate",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec55eFZWwhmwQjfJ",
+            "fields": {
+                "activity_data_key": "swimming-pools",
+                "activity_search_autocomplete": "Swimming pools",
+                "industry_category": "Gyms and fitness centers - Outdoor recreation, including campgrounds and playgrounds - Hotels and lodging",
+                "activity_key": "swimming-pools",
+                "4 - WIDESPREAD": "Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.",
+                "3 - SUBSTANTIAL": "Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.",
+                "2 - MODERATE": "Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.",
+                "1 - MINIMAL": "Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.",
+                "RSHO": "Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec5NKjaiQj7TZCdj",
+            "fields": {
+                "activity_data_key": "museums",
+                "activity_search_autocomplete": "Museums",
+                "activity_key": "museums",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Indoor activities max 25% capacity",
+                "2 - MODERATE": "Can open indoors with modifications - Indoor activities max 50% capacity",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec5ZPZixeSYbh2jg",
+            "fields": {
+                "activity_data_key": "outdoor-cardrooms",
+                "activity_search_autocomplete": "Outdoor cardrooms and satellite wagering",
+                "industry_category": "Cardrooms and racetracks",
+                "activity_key": "outdoor-cardrooms",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec670juDW2Ss8ek6",
+            "fields": {
+                "activity_data_key": "zoos-museums-aquariums",
+                "activity_search_autocomplete": "Museums, zoos, and aquariums",
+                "activity_key": "zoos-museums-aquariums",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec6Zll9cNuVWasak",
+            "fields": {
+                "activity_data_key": "amusement-theme-parks",
+                "activity_search_autocomplete": "Amusement parks and theme parks",
+                "activity_key": "amusement-theme-parks",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec6r02NvsKuWSrpS",
+            "fields": {
+                "activity_data_key": "landscapers",
+                "activity_search_autocomplete": "Landscapers",
+                "activity_key": "landscapers",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec7S5LuiuUMnbkt8",
+            "fields": {
+                "activity_data_key": "bookstores",
+                "activity_search_autocomplete": "Bookstores",
+                "industry_category": "Retailers",
+                "activity_key": "bookstores",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec7ZjANcKr88yHzf",
+            "fields": {
+                "activity_data_key": "electrologists",
+                "activity_search_autocomplete": "Electrologists",
+                "industry_category": "Personal care services",
+                "activity_key": "electrologists",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec7wZ9EA55XV5OkM",
+            "fields": {
+                "activity_data_key": "tattoo-parlors",
+                "activity_search_autocomplete": "Tattoo parlors",
+                "industry_category": "Personal care services",
+                "activity_key": "tattoo-parlors",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec7xnHyXmhqzfXGs",
+            "fields": {
+                "activity_data_key": "outdoor-recreation",
+                "activity_search_autocomplete": "Outdoor recreation",
+                "industry_category": "Outdoor recreation",
+                "activity_key": "outdoor-recreation",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec8K3mKdF91Pee4j",
+            "fields": {
+                "activity_data_key": "concert-venues",
+                "activity_search_autocomplete": "Concert venues",
+                "activity_key": "concert-venues",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Closed",
+                "1 - MINIMAL": "Closed",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec8oqv4zfrZnX7Zb",
+            "fields": {
+                "activity_data_key": "fire-stations",
+                "activity_search_autocomplete": "Fire stations",
+                "industry_category": "Critical infrastructure",
+                "activity_key": "fire-stations",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec8qDWy1PpZg2N02",
+            "fields": {
+                "activity_data_key": "jewelry-stores",
+                "activity_search_autocomplete": "Jewelry stores",
+                "activity_key": "jewelry-stores",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec99ZoZ8LtSDaPJh",
+            "fields": {
+                "activity_data_key": "fitness",
+                "activity_search_autocomplete": "Fitness",
+                "industry_category": "Gyms and fitness centers",
+                "activity_key": "fitness",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rec9KBdXD0cPiFLQj",
+            "fields": {
+                "activity_data_key": "hvac-services",
+                "activity_search_autocomplete": "HVAC services",
+                "activity_key": "hvac-services",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recA5o5qIHdGS1JBL",
+            "fields": {
+                "activity_data_key": "higher-education",
+                "activity_search_autocomplete": "Higher education institutions",
+                "activity_key": "higher-education",
+                "critical": "yes",
+                "4 - WIDESPREAD": "Closed for indoor lectures and student gatherings. Some courses conducted in certain indoor settings, like labs and studio arts, may be open.",
+                "3 - SUBSTANTIAL": "Capacity for indoor lectures and student gatherings must be limited to 25% or 100 people, whichever is less. Some courses conducted in certain indoor settings, like labs and studio arts, may be open at regular capacity. Conduct student activities virtually when possible.",
+                "2 - MODERATE": "Capacity for indoor lectures and student gatherings must be limited to 50% or 200 people, whichever is less. Some courses conducted in certain indoor settings, like labs and studio arts, may be open at regular capacity. Conduct student activities virtually when possible.",
+                "1 - MINIMAL": "Capacity for indoor lectures and student gatherings must be limited to 50%. Some courses conducted in certain indoor settings, like labs and studio arts, may be open at regular capacity. Conduct student activities virtually when possible.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recATZdzaL9QOsrnV",
+            "fields": {
+                "activity_data_key": "limited-services",
+                "activity_search_autocomplete": "Residential and janitorial cleaning services",
+                "industry_category": "Residential and janitorial cleaning services",
+                "activity_key": "limited-services",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recAWA0rYy0mEKJIp",
+            "fields": {
+                "activity_data_key": "fitness hotels and hotels-lodging-rentals campgrounds-outdoor-recreation",
+                "activity_search_autocomplete": "Saunas and steam rooms",
+                "industry_category": "Gyms and fitness, Hotels, lodging, and short-term lodging rentals, and Outdoor recreation, including campgrounds, playgrounds, and ski resorts",
+                "activity_key": "fitness hotels and hotels-lodging-rentals campgrounds-outdoor-recreation",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Closed",
+                "1 - MINIMAL": "Can open indoors with modifications - +Saunas - +Spas - +Steam rooms - Max 50% capacity",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recB65djqHZ8r8ki8",
+            "fields": {
+                "activity_data_key": "mosques",
+                "activity_search_autocomplete": "Mosques",
+                "activity_key": "mosques",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recC00QCtpozROP7x",
+            "fields": {
+                "activity_data_key": "hospitals-urgent-care",
+                "activity_search_autocomplete": "Hospitals and urgent cares",
+                "industry_category": "Critical infrastructure",
+                "activity_key": "hospitals-urgent-care",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recC3W9srhv08ZeqV",
+            "fields": {
+                "activity_data_key": "dog-walkers",
+                "activity_search_autocomplete": "Dog walkers",
+                "activity_key": "dog-walkers",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recC8rYWlgtsKsv56",
+            "fields": {
+                "activity_data_key": "state-local-government-offices",
+                "activity_search_autocomplete": "State and local government offices",
+                "activity_key": "state-local-government-offices",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recCTD4rrogrY6MtY",
+            "fields": {
+                "activity_data_key": "logistics-warehousing",
+                "activity_search_autocomplete": "Logistics and warehousing facilities",
+                "activity_key": "logistics-warehousing",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recDWgzO2JJF9EtaF",
+            "fields": {
+                "activity_data_key": "farmers-markets",
+                "activity_search_autocomplete": "Farmers markets",
+                "industry_category": "Retailers",
+                "activity_key": "farmers-markets",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recDawZkF4N6hJcVH",
+            "fields": {
+                "activity_data_key": "bowling-alleys",
+                "activity_search_autocomplete": "Bowling alleys",
+                "activity_key": "bowling-alleys",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Can open indoors for naturally distanced activities, with modifications - Max 25% capacity",
+                "1 - MINIMAL": "Can open indoors for activities with increased risk of proximity and mixing, with modifications - Max 50% capacity",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recDppSePOc3eEA7T",
+            "fields": {
+                "activity_data_key": "outdoor-live-professional-sports",
+                "activity_search_autocomplete": "Outdoor live professional sports",
+                "industry_category": "Outdoor live professional sports",
+                "activity_key": "outdoor-live-professional-sports",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recDqbb9L3aP3wwKk",
+            "fields": {
+                "activity_data_key": "small-private-gatherings",
+                "activity_search_autocomplete": "Small private gatherings",
+                "activity_key": "small-private-gatherings",
+                "4 - WIDESPREAD": "Are allowed outdoors only with modifications - Masks and physical distancing required - No more than 3 separate households attend (including the host's) - Gatherings should be 2 hours or less - Those with symptoms must not attend - Those at high risk of severe illness strongly encouraged not to attend - Singing, shouting, chanting, cheering, or exercising strongly discouraged",
+                "3 - SUBSTANTIAL": "Are allowed outdoors and indoors with modifications - Masks and physical distancing required - No more than 3 separate households attend (including the host's) - Gatherings should be 2 hours or less - Those with symptoms must not attend - Those at high risk of severe illness strongly encouraged not to attend - Singing, shouting, chanting, cheering, or exercising strongly discouraged outdoors and not permitted indoors ",
+                "2 - MODERATE": "Are allowed outdoors and indoors with modifications - Masks and physical distancing required - No more than 3 separate households attend (including the host's) - Gatherings should be 2 hours or less - Those with symptoms must not attend - Those at high risk of severe illness strongly encouraged not to attend - Singing, shouting, chanting, cheering, or exercising strongly discouraged outdoors and not permitted indoors ",
+                "1 - MINIMAL": "Are allowed outdoors and indoors with modifications - Masks and physical distancing required - No more than 3 separate households attend (including the host's) - Gatherings should be 2 hours or less - Those with symptoms must not attend - Those at high risk of severe illness strongly encouraged not to attend - Singing, shouting, chanting, cheering, or exercising strongly discouraged outdoors and not permitted indoors ",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recEyUwAq4oKFdONi",
+            "fields": {
+                "activity_data_key": "churches",
+                "activity_search_autocomplete": "Churches",
+                "activity_key": "churches",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications  - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications  - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Can open indoors with modifications  - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recEydghlxh79OuEl",
+            "fields": {
+                "activity_data_key": "offices-non-essential-businesses",
+                "activity_search_autocomplete": "Offices (non-essential businesses)",
+                "industry_category": "Office workspaces",
+                "activity_key": "offices-non-essential-businesses",
+                "4 - WIDESPREAD": "Can work remotely",
+                "3 - SUBSTANTIAL": "Can work remotely",
+                "2 - MODERATE": "Can open indoors with modifications - Encourage working remotely",
+                "1 - MINIMAL": "Can open indoors with modifications - Encourage working remotely",
+                "RSHO": "Can work remotely",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recFXdhU9MQg1E0Dq",
+            "fields": {
+                "activity_data_key": "day-camps",
+                "activity_search_autocomplete": "Day camps",
+                "activity_key": "day-camps",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recFquzeYJJYRbQXL",
+            "fields": {
+                "activity_data_key": "gatherings-holidays",
+                "activity_search_autocomplete": "Gatherings and Holidays",
+                "activity_key": "gatherings-holidays",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recGPviozVzSpOFux",
+            "fields": {
+                "activity_data_key": "short-term-lodging-rentals",
+                "activity_search_autocomplete": "Short-term lodging rentals",
+                "industry_category": "Hotels, lodging, and short-term lodging rentals",
+                "activity_key": "short-term-lodging-rentals",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications - +Fitness centers (+10%)",
+                "2 - MODERATE": "Can open with modifications - +Fitness centers (+25%) - +Indoor pools",
+                "1 - MINIMAL": "Can open with modifications - +Fitness Centers (50%) - +Spa facilities, etc.",
+                "RSHO": "Closed for in-state reservations unless used for COVID-19 mitigation and containment measures, treatment measures, accommodation for essential workers or those displaced as a result of fire or other emergency, or housing solutions, including measures to protect homeless populations. Open for non-essential, out-of-state reservations so long as reservation is at least the minimum time period required for quarantine.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recGdl7LFqtLcTRB0",
+            "fields": {
+                "activity_data_key": "wineries",
+                "activity_search_autocomplete": "Wineries",
+                "activity_key": "wineries",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity indoors, or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications - Max 50% capacity or 200 people indoors, whichever is fewer ",
+                "1 - MINIMAL": "Closed for on-site consumption. May continue with production, manufacturing, distribution, and retail sale for off-site consumption.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recGmDhjdpINEG7Ch",
+            "fields": {
+                "activity_data_key": "appliance-repair-shops",
+                "activity_search_autocomplete": "Appliance repair shops",
+                "activity_key": "appliance-repair-shops",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recHNbZCTp3SLrvnD",
+            "fields": {
+                "activity_data_key": "cardrooms-racetracks",
+                "activity_search_autocomplete": "Satellite wagering sites",
+                "activity_key": "cardrooms-racetracks",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open outdoors only with modifications",
+                "2 - MODERATE": "Can open indoors with modifications - Max 25% capacity",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recHV5q0pItgn4tz7",
+            "fields": {
+                "activity_data_key": "shopping-malls",
+                "activity_search_autocomplete": "Shopping malls",
+                "activity_key": "shopping-malls",
+                "4 - WIDESPREAD": "Can open indoors with modifications - Max 25% capacity - Closed common areas - Closed food courts",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 50% capacity - Closed common areas - Reduced capacity food courts (see Restaurants)",
+                "2 - MODERATE": "Can open indoors with modifications - Closed common areas - Reduced capacity food courts (see Restaurants)",
+                "1 - MINIMAL": "Can open with modifications - Reduced capacity food courts (see Restaurants)",
+                "RSHO": "Can open indoors with modifications - Max 20% capacity - Closed common areas - Closed food courts",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recI3P8g2eaobIKDN",
+            "fields": {
+                "activity_data_key": "florists",
+                "activity_search_autocomplete": "Florists",
+                "activity_key": "florists",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recILztqSPeKtEgYF",
+            "fields": {
+                "activity_data_key": "childcare",
+                "activity_search_autocomplete": "Childcare",
+                "activity_key": "childcare",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recIuZ7VJFinoWcl7",
+            "fields": {
+                "activity_data_key": "energy",
+                "activity_search_autocomplete": "Energy and utilities",
+                "activity_key": "energy",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recJ3jMH8PuzFkkJc",
+            "fields": {
+                "activity_data_key": "bars-no-meals-provided",
+                "activity_search_autocomplete": "Bars (where no meals provided)",
+                "activity_key": "bars-no-meals-provided",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Can open outdoors only with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Closed for on-site consumption.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recJHtnORvC3pyDxF",
+            "fields": {
+                "activity_data_key": "distilleries-no-meals-provided",
+                "activity_search_autocomplete": "Distilleries (where no meals provided)",
+                "activity_key": "distilleries-no-meals-provided",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Can open outdoors only with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Closed for on-site consumption. May continue with production, manufacturing, distribution, and retail sale for off-site consumption.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recJiMdl7JMmmzksH",
+            "fields": {
+                "activity_data_key": "libraries",
+                "activity_search_autocomplete": "Libraries",
+                "activity_key": "libraries",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recKeithvPaemdL6x",
+            "fields": {
+                "activity_data_key": "massage-therapy",
+                "activity_search_autocomplete": "Massage therapy studios",
+                "industry_category": "Personal care services",
+                "activity_key": "massage-therapy",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recL61twB31QchYeE",
+            "fields": {
+                "activity_data_key": "campgrounds-outdoor-recreation",
+                "activity_search_autocomplete": "Outdoor recreation, including campgrounds,playgrounds, and ski resorts",
+                "industry_category": "Outdoor recreation, including campgrounds, playgrounds, and ski resorts",
+                "activity_key": "campgrounds-outdoor-recreation",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recMcsGMaMd6MzI47",
+            "fields": {
+                "activity_data_key": "manufacturing",
+                "activity_search_autocomplete": "Manufacturing",
+                "activity_key": "manufacturing",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recO9SAfXfhBjrrcb",
+            "fields": {
+                "activity_data_key": "door-to-door-sales",
+                "activity_search_autocomplete": "Door-to-door sales and services",
+                "activity_key": "door-to-door-sales",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recOFf43voGAUrBEG",
+            "fields": {
+                "activity_data_key": "grocery-stores",
+                "activity_search_autocomplete": "Grocery stores",
+                "activity_key": "grocery-stores",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications - Max 50% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 35% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recOUA6siDT3Pz0U3",
+            "fields": {
+                "activity_data_key": "schools",
+                "activity_search_autocomplete": "Schools",
+                "activity_key": "schools",
+                "critical": "yes",
+                "4 - WIDESPREAD": "-",
+                "3 - SUBSTANTIAL": "-",
+                "2 - MODERATE": "-",
+                "1 - MINIMAL": "-",
+                "RSHO": "-",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recPTvsw5LyWwGFd9",
+            "fields": {
+                "activity_data_key": "zoos",
+                "activity_search_autocomplete": "Zoos",
+                "activity_key": "zoos",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Indoor activities max 25% capacity",
+                "2 - MODERATE": "Can open indoors with modifications - Indoor activities max 50% capacity",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recQjYdR3W4ZuSYRd",
+            "fields": {
+                "activity_data_key": "outdoor-playgrounds",
+                "activity_search_autocomplete": "Outdoor playgrounds",
+                "industry_category": "Outdoor recreation, including campgrounds, playgrounds, and ski resorts",
+                "activity_key": "outdoor-playgrounds",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recQybbMJW4xsrGrl",
+            "fields": {
+                "activity_data_key": "clothing-shoe-stores",
+                "activity_search_autocomplete": "Clothing and shoe stores",
+                "activity_key": "clothing-shoe-stores",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recRFlab0TRNrWAYV",
+            "fields": {
+                "activity_data_key": "gyms-fitness-centers",
+                "activity_search_autocomplete": "Gyms and fitness centers",
+                "activity_key": "gyms-fitness-centers",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 10% capacity - +Climbing walls",
+                "2 - MODERATE": "Can open indoors with modifications - Max 25% capacity - +Indoor pools",
+                "1 - MINIMAL": "Can open indoors with modifications - +Saunas - +Spas - +Steam rooms - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recRIa8v6t31zY75c",
+            "fields": {
+                "activity_data_key": "piercing-shops",
+                "activity_search_autocomplete": "Piercing shops",
+                "industry_category": "Personal care services",
+                "activity_key": "piercing-shops",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recRK6brdK31nuw8y",
+            "fields": {
+                "activity_data_key": "breweries-no-meals-provided",
+                "activity_search_autocomplete": "Breweries (where no meals provided)",
+                "activity_key": "breweries-no-meals-provided",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Can open outdoors only with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Closed for on-site consumption. May continue with production, manufacturing, distribution, and retail sale for off-site consumption.",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recRM93k7hIC1EwnJ",
+            "fields": {
+                "activity_data_key": "festivals",
+                "activity_search_autocomplete": "Festivals",
+                "activity_key": "festivals",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Closed",
+                "1 - MINIMAL": "Closed",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recRs6t0iipxjzLIN",
+            "fields": {
+                "activity_data_key": "dry-cleaners",
+                "activity_search_autocomplete": "Dry cleaners",
+                "activity_key": "dry-cleaners",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recS49G1iVXGbUADN",
+            "fields": {
+                "activity_data_key": "nightclubs",
+                "activity_search_autocomplete": "Nightclubs",
+                "industry_category": "Convention centers and professional hosted events",
+                "activity_key": "nightclubs",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Closed",
+                "1 - MINIMAL": "Closed",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recSOSkEp2ohou2AS",
+            "fields": {
+                "activity_data_key": "body-waxing-studios",
+                "activity_search_autocomplete": "Body waxing studios",
+                "industry_category": "Personal care services",
+                "activity_key": "body-waxing-studios",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recSgAY4fL7VQrMho",
+            "fields": {
+                "activity_data_key": "dance-studios",
+                "activity_search_autocomplete": "Dance studios",
+                "activity_key": "dance-studios",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 10% capacity",
+                "2 - MODERATE": "Can open indoors with modifications - Max 25% capacity - +Indoor pools",
+                "1 - MINIMAL": "Can open indoors with modifications - +Saunas - +Spas - +Steam rooms - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recSy0mAM5cO3cBW3",
+            "fields": {
+                "activity_data_key": "retail",
+                "activity_search_autocomplete": "Retail",
+                "activity_key": "retail",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recUF9I00POELpNgs",
+            "fields": {
+                "activity_data_key": "swap-meets",
+                "activity_search_autocomplete": "Swap meets",
+                "activity_key": "swap-meets",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity - Closed common areas - Closed food courts",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity - Closed common areas - Reduced capacity food courts (see Restaurants)",
+                "2 - MODERATE": "Can open with modifications - Closed common areas - Reduced capacity food courts (see Restaurants)",
+                "1 - MINIMAL": "Can open with modifications - Reduced capacity food courts (see Restaurants)",
+                "RSHO": "Can open indoors with modifications - Max 20% capacity - Closed common areas - Closed food courts",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recUHftRQS0mzxCva",
+            "fields": {
+                "activity_data_key": "life-sciences",
+                "activity_search_autocomplete": "Life sciences",
+                "activity_key": "life-sciences",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recUMG1QaTyTYeITE",
+            "fields": {
+                "activity_data_key": "nail-salons",
+                "activity_search_autocomplete": "Nail salons",
+                "industry_category": "Personal care services",
+                "activity_key": "nail-salons",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recWScOQzJfKtbWUV",
+            "fields": {
+                "activity_data_key": "banks-credit-unions",
+                "activity_search_autocomplete": "Banks and credit unions",
+                "industry_category": "Banks and credit unions",
+                "activity_key": "banks-credit-unions",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recXhR8U9vKJQp6qQ",
+            "fields": {
+                "activity_data_key": "drive-in-theaters",
+                "activity_search_autocomplete": "Drive-in theaters",
+                "activity_key": "drive-in-theaters",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open outdoors only with modifications",
+                "2 - MODERATE": "Can open outdoors only with modifications",
+                "1 - MINIMAL": "Can open outdoors only with modifications",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recYSDZ9CInBpTawM",
+            "fields": {
+                "activity_data_key": "cultural-ceremonies",
+                "activity_search_autocomplete": "Cultural ceremonies",
+                "activity_key": "cultural-ceremonies",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recYxKZS1E0tGA8UD",
+            "fields": {
+                "activity_data_key": "sporting-goods-stores",
+                "activity_search_autocomplete": "Sporting goods stores",
+                "activity_key": "sporting-goods-stores",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recZKzqxnlYJuycsr",
+            "fields": {
+                "activity_data_key": "take-out-restaurants",
+                "activity_search_autocomplete": "Restaurants (take-out and delivery)",
+                "industry_category": "Restaurants",
+                "activity_key": "take-out-restaurants",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recahEvq7PXATxPf3",
+            "fields": {
+                "activity_data_key": "pharmacies",
+                "activity_search_autocomplete": "Pharmacies",
+                "industry_category": "Retail",
+                "activity_key": "pharmacies",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recbFUAyi0BvLTkPv",
+            "fields": {
+                "activity_data_key": "restaurants-bars-wineries",
+                "activity_search_autocomplete": "Restaurants, wineries, and bars",
+                "industry_category": "Restaurants",
+                "activity_key": "restaurants-bars-wineries",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recbTaFD3d4LEaE2M",
+            "fields": {
+                "activity_data_key": "movie-theaters",
+                "activity_search_autocomplete": "Movie theaters",
+                "activity_key": "movie-theaters",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Canpen indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry",
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "reccLZXHXD9CoNUpx",
+            "fields": {
+                "activity_data_key": "plumbing-services",
+                "activity_search_autocomplete": "Plumbing services",
+                "industry_category": "Limited services",
+                "activity_key": "plumbing-services",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recchNjgRHW2qzSsn",
+            "fields": {
+                "activity_data_key": "convention-centers",
+                "activity_search_autocomplete": "Convention centers",
+                "industry_category": "Convention centers and professional hosted events",
+                "activity_key": "convention-centers",
+                "4 - WIDESPREAD": "Closed",
+                "3 - SUBSTANTIAL": "Closed",
+                "2 - MODERATE": "Closed",
+                "1 - MINIMAL": "Closed",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "reccxJ2YjyCco4G27",
+            "fields": {
+                "activity_data_key": "cardrooms",
+                "activity_search_autocomplete": "Cardrooms",
+                "activity_key": "cardrooms",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open outdoors only with modifications",
+                "2 - MODERATE": "Can open indoors with modifications - Max 25% capacity",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "receGWX8odbtCYCxm",
+            "fields": {
+                "activity_data_key": "gas-stations",
+                "activity_search_autocomplete": "Gas stations",
+                "activity_key": "gas-stations",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recei8luqcqQkw7Hi",
+            "fields": {
+                "activity_data_key": "auto-dealerships",
+                "activity_search_autocomplete": "Auto dealerships",
+                "activity_key": "auto-dealerships",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "receq59yHoNZSUiIq",
+            "fields": {
+                "activity_data_key": "mining-logging",
+                "activity_search_autocomplete": "Mining and logging",
+                "activity_key": "mining-logging",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recfJeFVS6tkQTaby",
+            "fields": {
+                "activity_data_key": "skin-care-services",
+                "activity_search_autocomplete": "Skin care services",
+                "industry_category": "Personal care services",
+                "activity_key": "skin-care-services",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recfSVjdnAaqspw7Q",
+            "fields": {
+                "activity_data_key": "ports",
+                "activity_search_autocomplete": "Ports",
+                "activity_key": "ports",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recfungkQ88ZVobcC",
+            "fields": {
+                "activity_data_key": "family-entertainment",
+                "activity_search_autocomplete": "Family entertainment centers",
+                "activity_key": "family-entertainment",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications - Kart racing - Mini-golf - Batting cages",
+                "3 - SUBSTANTIAL": "Can open outdoors only with modifications - Kart racing - Mini-golf - Batting cages",
+                "2 - MODERATE": "Can open indoors for naturally distanced activities, with modifications - Max 25% capacity - Bowling alleys - Escape rooms",
+                "1 - MINIMAL": "Can open indoors for activities with increased risk of proximity and mixing, with modifications - Max 50% capacity - Arcade games - Ice and roller skating - Indoor playgrounds",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recg7GCn0sCUmn6Pk",
+            "fields": {
+                "activity_data_key": "laundromats-laundry-services",
+                "activity_search_autocomplete": "Laundromats and laundry services",
+                "activity_key": "laundromats-laundry-services",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recgP5lf9BaiWibNd",
+            "fields": {
+                "activity_data_key": "food-packing",
+                "activity_search_autocomplete": "Food packing",
+                "activity_key": "food-packing",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recghPjB0CEz6FRWX",
+            "fields": {
+                "activity_data_key": "weddings",
+                "activity_search_autocomplete": "Weddings (ceremonies only)",
+                "activity_key": "weddings",
+                "4 - WIDESPREAD": "Outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Indoors with modifications - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Indoors with modifications - Max 50% capacity",
+                "RSHO": "Outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "rech2pbHGfUQ10OTS",
+            "fields": {
+                "activity_data_key": "bars",
+                "activity_search_autocomplete": "Bars, breweries, and distilleries",
+                "activity_key": "bars",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "reci02FJKRXJh1hRq",
+            "fields": {
+                "activity_data_key": "communications",
+                "activity_search_autocomplete": "Communications infrastructure",
+                "activity_key": "communications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recj0kxedQdS8IbRp",
+            "fields": {
+                "activity_data_key": "doctors-dentists",
+                "activity_search_autocomplete": "Doctors and dentists",
+                "industry_category": "Critical infrastructure",
+                "activity_key": "doctors-dentists",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recjOivnVx8wlAmHZ",
+            "fields": {
+                "activity_data_key": "toy-stores",
+                "activity_search_autocomplete": "Toy stores",
+                "industry_category": "Retailers",
+                "activity_key": "toy-stores",
+                "4 - WIDESPREAD": "Can open with modifications - Max 25% capacity",
+                "3 - SUBSTANTIAL": "Can open with modifications - Max 50% capacity",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recl7RfeyJG39COM2",
+            "fields": {
+                "activity_data_key": "places-of-worship",
+                "activity_search_autocomplete": "Places of worship",
+                "industry_category": "Places of worship and cultural ceremonies",
+                "activity_key": "places-of-worship",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 25% capacity or 100 people, whichever is fewer",
+                "2 - MODERATE": "Can open indoors with modifications - Max 50% capacity or 200 people, whichever is fewer ",
+                "1 - MINIMAL": "Can open indoors with modifications - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recmBaDLkP7eHB3Ml",
+            "fields": {
+                "activity_data_key": "construction",
+                "activity_search_autocomplete": "Construction",
+                "activity_key": "construction",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public",
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recmHREo3UylsRTBb",
+            "fields": {
+                "activity_data_key": "film-tv",
+                "activity_search_autocomplete": "Film and TV production",
+                "activity_key": "film-tv",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recmeHaYo79CW7gqx",
+            "fields": {
+                "activity_data_key": "hair-salons",
+                "activity_search_autocomplete": "Hair salons and barbershops",
+                "activity_key": "hair-salons",
+                "4 - WIDESPREAD": "Can open indoors with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications",
+                "2 - MODERATE": "Can open indoors with modifications",
+                "1 - MINIMAL": "Can open indoors with modifications",
+                "RSHO": "Closed",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recmj56NjjiN3zwy6",
+            "fields": {
+                "activity_data_key": "convenience-stores",
+                "activity_search_autocomplete": "Convenience stores",
+                "activity_key": "convenience-stores",
+                "critical": "yes",
+                "essential": "yes",
+                "4 - WIDESPREAD": "Can open with modifications",
+                "3 - SUBSTANTIAL": "Can open with modifications",
+                "2 - MODERATE": "Can open with modifications",
+                "1 - MINIMAL": "Can open with modifications - Max 20% capacity - No food or beverages sold for onsite consumption",
+                "RSHO": "Can open with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recmnFb2AsaehRusl",
+            "fields": {
+                "activity_data_key": "yoga-studios",
+                "activity_search_autocomplete": "Yoga studios",
+                "activity_key": "yoga-studios",
+                "4 - WIDESPREAD": "Can open outdoors only with modifications",
+                "3 - SUBSTANTIAL": "Can open indoors with modifications - Max 10% capacity",
+                "2 - MODERATE": "Can open indoors with modifications - Max 25% capacity - +Indoor pools",
+                "1 - MINIMAL": "Can open indoors with modifications - +Saunas - +Spas - +Steam rooms - Max 50% capacity",
+                "RSHO": "Can open outdoors only with modifications",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "general-public"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        },
+        {
+            "id": "recmzOEBvW2WXUEgd",
+            "fields": {
+                "activity_data_key": "hotels-lodging-rentals",
+                "activity_search_autocomplete": "Hotels, lodging, and short-term lodging rentals",
+                "activity_key": "hotels-lodging-rentals",
+                "last_modified": "2020-12-25T02:56:00.000Z",
+                "audience": [
+                    "industry"
+                ]
+            },
+            "createdTime": "2020-12-24T01:03:01.000Z"
+        }
+    ],
+    "offset": "itrVyIBSyAu3vIBtu/recmzOEBvW2WXUEgd"
+}

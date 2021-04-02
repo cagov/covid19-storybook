@@ -1,0 +1,13 @@
+{
+  "name": "cagov-drawer",
+  "version": "1.0.0",
+  "description": "Small drawer for data",
+  "main": "src/index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

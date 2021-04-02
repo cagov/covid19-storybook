@@ -1,0 +1,31 @@
+{
+  "Dataset Status": "DRAFTING! This metadata is a test of adding metadata & filling out the recommended fields from the data.ca.gov Open Data Handbook. This data & this metadata is a draft. The RSHO data and tier modifications listed here are old sample data. Up-to-date information can be found at https://covid19.ca.gov.",
+  "Title": "State Industry Guidance Data",
+  "Machine Readable Title": "state-industry-guidance-data",
+  "Version": "2.0.0-beta",
+  "Permalink": "https://files.covid19.ca.gov/data/v2/state-industry-guidance-data.json",
+  "Description": "COVID-19 state industry guidance and related files.",
+  "Tags": "covid19, Industry Guidance",
+  "Groups": "Office of Digital Innovation, State of California https://ca.gov",
+  "Topics": "Economy and Demographics, COVID-19, Government, Health & Human Services",
+  "License": "Public Domain",
+  "Author": "covid19.ca.gov - Office of Digital Innovation, State of California",
+  "Spatial | Geographic Coverage": "statewide",
+  "Frequency": "As needed",
+  "Temporal Coverage": "March 2020 until present",
+  "Granularity": "",
+  "Data Dictionary Type": "HTML",
+  "Data Dictionary": "This data source is aggregated from several sources. (@TODO list the sources & add the data dictionaries)",
+  "Program Contact Name ": "",
+  "Program Contact Email": "",
+  "Public Access Level": "",
+  "Rights": "No restrictions on public use",
+  "Homepage URL": "https://covid19.ca.gov/safer-economy",
+  "Data Standard": "JSON",
+  "Language": "English",
+  "Additional Information": {
+    "Data Methodology": "Updated as information is made available or announced.",
+    "Documentation Template": "https://handbook.data.ca.gov/wp-content/uploads/sites/262/2019/01/Publishing-Metadata-Template.pdf"
+  },
+  "Related Content": ""
+}

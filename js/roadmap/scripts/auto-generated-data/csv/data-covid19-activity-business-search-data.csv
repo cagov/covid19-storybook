@@ -1,0 +1,395 @@
+"activity_reference_key","activity_search_autocomplete","override_industry_guidance_label","activity_key","4 - WIDESPREAD","3 - SUBSTANTIAL","2 - MODERATE","1 - MINIMAL","RSHO","last_modified","primary_guidance","secondary_guidance","related_guidance"
+"agriculture","Agriculture and livestock","","agriculture","","","","","","2021-04-01T18:22:00.000Z","agriculture","general-indoors, general-outdoors",""
+"amusement-theme-parks","Amusement parks and theme parks","","amusement-theme-parks","","","","","","2021-03-02T02:15:00.000Z","amusement-theme-parks","general-indoors, general-outdoors","retail, restaurants-bars-wineries"
+"appliance-repair-shops","Appliance repair shops","","appliance-repair-shops","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-31T01:22:00.000Z","limited-services","general-indoors, general-outdoors",""
+"aquariums","Aquariums","","aquariums","Can open outdoors only with modifications","Can open indoors with modifications
+- Indoor activities max 25% capacity","Can open indoors with modifications
+- Indoor activities max 50% capacity","Can open indoors with modifications","Closed","2021-03-31T01:22:00.000Z","zoos-museums","general-indoors, general-outdoors",""
+"auto-dealerships","Auto dealerships","","auto-dealerships","","","","","","2021-03-02T00:55:00.000Z","auto-dealerships","general-indoors, general-outdoors",""
+"auto-repair-shops","Auto repair shops","","auto-repair-shops","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"banks-credit-unions","Banks and credit unions","Banks and credit unions","banks-credit-unions","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","critical-infrastructure","general-indoors, general-outdoors",""
+"bars","Bars, breweries, and distilleries","","bars","","","","","","2021-03-02T00:55:00.000Z","bars","general-indoors, general-outdoors",""
+"bars-no-meals-provided","Bars (where no meals provided)","","bars-no-meals-provided","Closed","Closed","Can open outdoors only with modifications","Can open indoors with modifications 
+- Max 25% capacity or 100 people, whichever is fewer","Closed for on-site consumption.","2021-03-31T01:22:00.000Z","bars","general-indoors, general-outdoors",""
+"body-waxing-studios","Body waxing studios","Personal care services","body-waxing-studios","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-31T01:22:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"bookstores","Bookstores","Retailers","bookstores","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"bowling-alleys","Bowling alleys","","bowling-alleys","Closed","Closed","Can open indoors for naturally distanced activities, with modifications
+- Max 25% capacity","Can open indoors for activities with increased risk of proximity and mixing, with modifications
+- Max 50% capacity","Closed","2021-03-31T01:22:00.000Z","family-entertainment","general-indoors, general-outdoors",""
+"breweries-no-meals-provided","Breweries (where no meals provided)","","breweries-no-meals-provided","Can open outdoors only with modifications
+- Reservations required
+- 90-minute time limit
+- Seating/tables only
+- Limited hours (services for on-site consumption closed by 8pm)","Can open outdoors only with modifications
+- Reservations required
+- 90-minute time limit
+- Seating/tables only
+- Limited hours (services for on-site consumption closed by 8pm)","Can open outdoors indoors with modifications
+- Max 25% capacity, or 100 people, whichever is fewer","Can open indoors with modifications 
+- Max 50% capacity, or 200 people, whichever is fewer","Closed for on-site consumption. May continue with production, manufacturing, distribution, and retail sale for off-site consumption.","2021-03-31T01:22:00.000Z","bars","general-indoors, general-outdoors",""
+"campgrounds","Campgrounds","","campgrounds","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Closed unless used for COVID-19 mitigation and containment measures, treatment measures, providing accommodation for essential workers or those displaced as a result of fire or other emergency, or providing housing solutions, including measures to protect homeless populations.
+","2021-03-31T01:22:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
+"outdoor-recreation","Outdoor recreation, including campgrounds,playgrounds, and ski resorts","Outdoor recreation, including campgrounds, playgrounds, and ski resorts","campgrounds-outdoor-recreation","","","","","","2021-03-02T02:06:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
+"cardrooms","Cardrooms","","cardrooms","Can open outdoors only with modifications","Can open outdoors only with modifications","Can open indoors with modifications
+- Max 25% capacity","Can open indoors with modifications
+- Max 50% capacity","Closed","2021-03-31T01:22:00.000Z","cardrooms-racetracks, outdoor-cardrooms","general-indoors, general-outdoors",""
+"satellite-wagering-sites","Satellite wagering sites","","cardrooms-racetracks","Can open outdoors only with modifications","Can open outdoors only with modifications","Can open indoors with modifications
+- Max 25% capacity","Can open indoors with modifications
+- Max 50% capacity","Closed","2021-03-31T01:22:00.000Z","cardrooms-racetracks","general-indoors, general-outdoors",""
+"carwashes","Carwashes","","carwashes","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Closed","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"childcare","Childcare","","childcare","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","childcare, cohorts","general-indoors, general-outdoors",""
+"churches","Churches","","churches","Can open indoors with modifications
+- Indoor activities strongly discouraged 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"clothing-shoe-stores","Clothing and shoe stores","","clothing-shoe-stores","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"cohorts","Cohorts for children and youth in supervised settings","","cohorts","","","","","","2021-03-02T00:55:00.000Z","cohorts","general-indoors, general-outdoors",""
+"communications","Communications infrastructure","","communications","","","","","","2021-03-02T00:55:00.000Z","communications","general-indoors, general-outdoors",""
+"concert-venues","Concert venues","","concert-venues","Closed","Closed","Closed","Closed","Closed","2021-03-02T02:03:00.000Z","live-performances","general-indoors, general-outdoors",""
+"construction","Construction","","construction","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","construction","general-indoors, general-outdoors",""
+"convenience-stores","Convenience stores","","convenience-stores","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"convention-centers","Convention centers","Convention centers and professional hosted events","convention-centers","Closed","Closed","Closed","Closed","Closed","2021-03-02T02:03:00.000Z","convention-centers","general-indoors, general-outdoors",""
+"cultural-ceremonies","Cultural ceremonies","","cultural-ceremonies","Can open outdoors only with modifications","Can open indoors with modifications 
+- Max 25% capacity or 100 people, whichever is fewer","Can open indoors with modifications 
+- Max 50% capacity or 200 people, whichever is fewer ","Can open indoors with modifications 
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"dance-studios","Dance studios","","dance-studios","Can open outdoors only with modifications","Can open indoors with modifications
+- Max 10% capacity","Can open indoors with modifications
+- Max 25% capacity
+- +Indoor pools","Can open indoors with modifications 
+- +Saunas
+- +Spas
+- +Steam rooms
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","fitness","general-indoors, general-outdoors",""
+"day-camps","Day camps","","day-camps","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","day-camps, cohorts","general-indoors, general-outdoors",""
+"delivery-services","Delivery services","","delivery-services","","","","","","2021-03-02T00:55:00.000Z","delivery-services","general-indoors, general-outdoors",""
+"distilleries-no-meals-provided","Distilleries (where no meals provided)","","distilleries-no-meals-provided","Can open outdoors only with modifications
+- Reservations required
+- 90-minute time limit
+- Seating/tables only
+- Limited hours (services for on-site consumption closed by 8pm)","Can open outdoors only with modifications
+- Reservations required
+- 90-minute time limit
+- Seating/tables only
+- Limited hours (services for on-site consumption closed by 8pm)","Can open outdoors indoors with modifications
+- Max 25% capacity, or 100 people, whichever is fewer","Can open indoors with modifications 
+- Max 50% capacity, or 200 people, whichever is fewer","Closed for on-site consumption. May continue with production, manufacturing, distribution, and retail sale for off-site consumption.","2021-03-31T01:22:00.000Z","bars","general-indoors, general-outdoors",""
+"doctors-dentists","Doctors and dentists","Critical infrastructure","doctors-dentists","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","critical-infrastructure","general-indoors, general-outdoors",""
+"dog-walkers","Dog walkers","","dog-walkers","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Closed","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"door-to-door-sales","Door-to-door sales and services","","door-to-door-sales","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Closed","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"drive-in-theaters","Drive-in theaters","","drive-in-theaters","Can open outdoors only with modifications","Can open outdoors only with modifications","Can open outdoors only with modifications","Can open outdoors only with modifications","Can open outdoors only with modifications","2021-03-02T02:03:00.000Z","movie-theaters","general-indoors, general-outdoors",""
+"dry-cleaners","Dry cleaners","","dry-cleaners","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"electricians","Electricians","","electricians","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"electrologists","Electrologists","Personal care services","electrologists","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-31T01:22:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"energy","Energy and utilities","","energy","","","","","","2021-03-02T00:55:00.000Z","energy","general-indoors, general-outdoors",""
+"estheticians","Estheticians","Personal care services","estheticians","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed except for physician-ordered electrology services","2021-03-31T01:22:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"family-entertainment","Family entertainment centers","","family-entertainment","Can open outdoors only with modifications
+- +Kart racing
+- +Mini-golf
+- +Batting cages","Can open outdoors only with modifications
+- +Kart racing
+- +Mini-golf
+- +Batting cages","Can open indoors for naturally distanced activities, with modifications
+- Max 25% capacity
+- +Bowling alleys
+- +Escape rooms","Can open indoors for activities with increased risk of proximity and mixing, with modifications
+- Max 50% capacity
+- +Arcade games
+- +Ice and roller skating
+- +Indoor playgrounds","Closed","2021-03-31T01:22:00.000Z","family-entertainment","general-indoors, general-outdoors",""
+"farmers-markets","Farmers markets","Retailers","farmers-markets","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","retail","general-indoors, general-outdoors",""
+"festivals","Festivals","","festivals","Closed","Closed","Closed","Closed","Closed","2021-03-02T02:03:00.000Z","festivals","general-indoors, general-outdoors",""
+"film-tv","Film and TV production","","film-tv","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","music-tv-film","general-indoors, general-outdoors",""
+"fire-stations","Fire stations","Critical infrastructure","fire-stations","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","critical-infrastructure","general-indoors, general-outdoors",""
+"fitness","Fitness","Gyms and fitness centers","fitness","","","","","","2021-03-02T00:55:00.000Z","fitness","general-indoors, general-outdoors",""
+"florists","Florists","","florists","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"food-banks","Food banks","","food-banks","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","food-banks","general-indoors, general-outdoors",""
+"food-packing","Food packing","","food-packing","","","","","","2021-03-02T00:55:00.000Z","food-packing","general-indoors, general-outdoors",""
+"gas-stations","Gas stations","","gas-stations","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","retail","general-indoors, general-outdoors",""
+"government-services","Government services","","government-services","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","government-services","general-indoors, general-outdoors",""
+"grocery-stores","Grocery stores","","grocery-stores","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 35% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"gyms-fitness-centers","Gyms and fitness centers","","gyms-fitness-centers","Can open outdoors only with modifications","Can open indoors with modifications
+- Max 10% capacity
+- +Climbing walls","Can open indoors with modifications
+- Max 25% capacity
+- +Indoor pools","Can open indoors with modifications 
+- +Saunas
+- +Spas
+- +Steam rooms
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","fitness","general-indoors, general-outdoors",""
+"hair-salons","Hair salons and barbershops","","hair-salons","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-02T02:03:00.000Z","hair-salons","general-indoors, general-outdoors",""
+"handy-persons-general-contractors","Handypersons/general contractors","","handy-persons-general-contractors","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"higher-education","Higher education institutions","","higher-education","Closed for indoor lectures and student gatherings. Some courses conducted in certain indoor settings, like labs and studio arts, may be open.","Capacity for indoor lectures and student gatherings must be limited to 25% or 100 people, whichever is less. Some courses conducted in certain indoor settings, like labs and studio arts, may be open at regular capacity. Conduct student activities virtually when possible.","Capacity for indoor lectures and student gatherings must be limited to 50% or 200 people, whichever is less. Some courses conducted in certain indoor settings, like labs and studio arts, may be open at regular capacity. Conduct student activities virtually when possible.","Capacity for indoor lectures and student gatherings must be limited to 50%. Some courses conducted in certain indoor settings, like labs and studio arts, may be open at regular capacity. Conduct student activities virtually when possible."," ","2021-03-02T02:03:00.000Z","higher-education","general-indoors, general-outdoors",""
+"home-furnishings","Home and furnishing stores","","home-furnishings","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"hospitals-urgent-care","Hospitals and urgent cares","Critical infrastructure","hospitals-urgent-care","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T00:55:00.000Z","critical-infrastructure","general-indoors, general-outdoors",""
+"hotels-lodging-rentals","Hotels, lodging, and short-term lodging rentals","","hotels-lodging-rentals","","","","","","2021-03-02T02:18:00.000Z","hotels-lodging-rentals","general-indoors, general-outdoors","restaurants-bars-wineries, retail, fitness"
+"hvac-services","HVAC services","","hvac-services","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"indoor-playgrounds","Indoor playgrounds (bounce centers/ball pits/laser tag)","","indoor-playgrounds","Closed","Closed","Can open indoors for naturally distanced activities, with modifications
+- Max 25% capacity
+- Bowling alleys
+- Climbing walls","Can open indoors for activities with increased risk of proximity and mixing, with modifications
+- Max 50% capacity
+- Arcade games
+- Ice and roller skating","Closed","2021-03-31T01:22:00.000Z","family-entertainment","general-indoors, general-outdoors",""
+"jewelry-stores","Jewelry stores","","jewelry-stores","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"landscapers","Landscapers","","landscapers","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Closed unless for erosion control and fire debris management","2021-03-31T01:22:00.000Z","limited-services","general-indoors, general-outdoors",""
+"laundromats-laundry-services","Laundromats and laundry services","","laundromats-laundry-services","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"libraries","Libraries","","libraries","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail, libraries","general-indoors, general-outdoors",""
+"life-sciences","Life sciences","","life-sciences","","","","","","2021-03-02T00:55:00.000Z","life-sciences","general-indoors, general-outdoors",""
+"limited-services","Residential and janitorial cleaning services","Residential and janitorial cleaning services","limited-services","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"live-theater","Live theater","","live-theater","Closed","Closed","Closed","Closed","Closed","2021-03-02T02:03:00.000Z","live-performances","general-indoors, general-outdoors",""
+"logistics-warehousing","Logistics and warehousing facilities","","logistics-warehousing","","","","","","2021-03-02T00:55:00.000Z","logistics-warehousing","general-indoors, general-outdoors",""
+"manufacturing","Manufacturing","","manufacturing","","","","","","2021-03-02T00:55:00.000Z","manufacturing","general-indoors, general-outdoors",""
+"massage-therapy","Massage therapy studios","Personal care services","massage-therapy","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-02T02:03:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"mining-logging","Mining and logging","","mining-logging","","","","","","2021-03-02T00:55:00.000Z","mining-logging","general-indoors, general-outdoors",""
+"mosques","Mosques","","mosques","Can open indoors with modifications
+- Indoor activities strongly discouraged 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"movie-theaters","Movie theaters","","movie-theaters","Can open outdoors only with modifications","Can open indoors with modifications 
+- Max 25% capacity or 100 people, whichever is fewer","Canpen indoors with modifications 
+- Max 25% capacity or 100 people, whichever is fewer","Can open indoors with modifications 
+- Max 50% capacity","Closed","2021-03-31T01:22:00.000Z","movie-theaters","general-indoors, general-outdoors",""
+"museums","Museums","","museums","Can open outdoors only with modifications","Can open indoors with modifications
+- Indoor activities max 25% capacity","Can open indoors with modifications
+- Indoor activities max 50% capacity","Can open indoors with modifications","Closed","2021-03-31T01:22:00.000Z","zoos-museums","general-indoors, general-outdoors",""
+"music-production","Music production","","music-production","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","music-tv-film","general-indoors, general-outdoors",""
+"music-tv-film","Music, film, and TV production","","music-tv-film","","","","","","2021-03-02T00:55:00.000Z","music-tv-film","general-indoors, general-outdoors",""
+"nail-salons","Nail salons","Personal care services","nail-salons","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-02T02:03:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"nightclubs","Nightclubs","Convention centers and professional hosted events","nightclubs","Closed","Closed","Closed","Closed","Closed","2021-03-02T02:03:00.000Z","convention-centers","general-indoors, general-outdoors",""
+"office-workspaces","Office workspaces","Office workspaces","office-workspaces","","","","","","2021-03-02T00:55:00.000Z","office-workspaces","general-indoors, general-outdoors",""
+"offices-non-essential-businesses","Offices (non-essential businesses)","Office workspaces","offices-non-essential-businesses","Can work remotely","Can work remotely","Can open indoors with modifications
+- Encourage working remotely","Can open indoors with modifications
+- Encourage working remotely","Can work remotely","2021-03-31T01:22:00.000Z","office-workspaces","general-indoors, general-outdoors",""
+"outdoor-cardrooms","Outdoor cardrooms and satellite wagering","Cardrooms and racetracks","outdoor-cardrooms","","","","","","2021-03-02T00:55:00.000Z","cardrooms-racetracks, outdoor-cardrooms","general-indoors, general-outdoors",""
+"outdoor-live-professional-sports","Racetracks","Professional sports","outdoor-live-professional-sports","Can open with modifications
+- No live audience","Can open with modifications
+- No live audience","Can open with modifications
+- Permanent venues with live audiences outdoors only
+- Max 20% capacity
+- Regional attendees only (within 120 miles)
+- Reservations required
+- Assigned seating only
+- In-seat concessions only (no concourse sales)","Can open with modifications
+- Permanent venues with live audiences outdoors only
+- Max 25% capacity
+- Regional attendees only (within 120 miles)
+- Reservations required
+- Assigned seating only
+- In-seat concessions only (no concourse sales)","Can open with modifications
+- No live audience","2021-03-31T01:22:00.000Z","outdoor-live-professional-sports, cardrooms-racetracks","general-indoors, general-outdoors",""
+"outdoor-live-professional-sports","Outdoor live professional sports","Outdoor live professional sports","outdoor-live-professional-sports","","","","","","2021-03-02T02:19:00.000Z","outdoor-live-professional-sports","general-indoors, general-outdoors",""
+"outdoor-playgrounds","Outdoor playgrounds","Outdoor recreation, including campgrounds, playgrounds, and ski resorts","outdoor-playgrounds","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
+"outdoor-recreation","Outdoor recreation","Outdoor recreation","outdoor-recreation","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications
+- No food or beverages sold for onsite consumption
+","2021-03-31T01:22:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
+"pet-groomers","Pet groomers","Limited services","pet-groomers","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Closed","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"pharmacies","Pharmacies","Retail","pharmacies","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","retail","general-indoors, general-outdoors",""
+"piercing-shops","Piercing shops","Personal care services","piercing-shops","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-02T02:03:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"places-of-worship","Places of worship","Places of worship and cultural ceremonies","places-of-worship","Can open indoors with modifications
+- Indoor activities strongly discouraged 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"plumbing-services","Plumbing services","Limited services","plumbing-services","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","limited-services","general-indoors, general-outdoors",""
+"police-stations","Police stations","Police stations","police-stations","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","critical-infrastructure","general-indoors, general-outdoors",""
+"ports","Ports","","ports","","","","","","2021-03-02T00:55:00.000Z","ports","general-indoors, general-outdoors",""
+"professional-sports","Professional sports","","professional-sports","Can open outdoors only with modifications
+- Max capacity 100 people
+- Reserved seats only
+- Regional attendees only (within 120 miles)
+- No concessions or concourse sales","Can open outdoors only with modifications
+- Max capacity 20%
+- Suite max capacity 25%
+- In-state attendees only
+- Advanced reservations only
+- In-seat concessions, no concourse sales","Can open outdoors only with modifications
+- Max capacity 33%, including suites
+-  Max capacity of 67% with  negative test result or proof of full vaccination
+- Suite max capacity 25%
+- In-state attendees only
+- Advanced reservations only
+- Restricted concessions and dining","Can open outdoors only with modifications
+- Max capacity 67%, including suites
+- Suite max capacity 25%
+- In-state attendees only
+- Advanced reservations only
+- Restricted concessions and dining","Can open with modifications
+- No live audience","2021-03-31T01:22:00.000Z","professional-sports, outdoor-live-professional-sports","general-indoors, general-outdoors",""
+"real-estate","Real estate transactions","","real-estate","","","","","","2021-03-02T00:55:00.000Z","real-estate","general-indoors, general-outdoors",""
+"restaurants-bars-wineries","Restaurants, wineries, and bars","Restaurants","restaurants-bars-wineries","","","","","","2021-03-02T00:55:00.000Z","restaurants-bars-wineries, bars, wineries","general-indoors, general-outdoors",""
+"retail","Retail","","retail","Can open with modifications<br>– Max 25% capacity","Can open with modifications<br>– Max 50% capacity","Can open with modifications","Can open with modifications","","2021-03-02T02:27:00.000Z","retail","general-indoors, general-outdoors",""
+"saunas-steam-rooms","Saunas and steam rooms","Gyms and fitness, Hotels, lodging, and short-term lodging rentals, and Outdoor recreation, including campgrounds, playgrounds, and ski resorts","saunas-steam-rooms","Closed","Closed","Closed","Can open indoors with modifications 
+- +Saunas
+- +Spas
+- +Steam rooms
+- Max 50% capacity","Closed","2021-03-31T01:22:00.000Z","fitness, hotels-lodging-rentals, campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
+"schools","Schools","","schools","K-12th grade schools can reopen for in-person instruction in accordance with the K-12 School Guidance. K-6th grade schools may open once their county has a case rate of less than 25 cases per 100,00 (adjusted) and if schools have followed the other processes for school re-opening outlined in the guidance. Middle and High Schools can open once the county is in the Red Tier and have also followed the school re-opening guidance.","Schools may reopen fully for in-person instruction. Local school officials will decide whether and when that will occur.","Schools may reopen fully for in-person instruction. Local school officials will decide whether and when that will occur.","Schools may reopen fully for in-person instruction. Local school officials will decide whether and when that will occur.","-","2021-03-31T01:22:00.000Z","schools, cohorts, youth-sports","general-indoors, general-outdoors",""
+"shopping-centers","Shopping centers","","shopping-centers","Can open indoors with modifications - Max 25% capacity - Closed common areas - Closed food courts","Can open indoors with modifications - Max 50% capacity - Closed common areas - Reduced capacity food courts (see Restaurants)","Can open indoors with modifications - Closed common areas - Reduced capacity food courts (see Restaurants)","Can open with modifications - Reduced capacity food courts (see Restaurants)","Can open indoors with modifications - Max 20% capacity - Closed common areas - Closed food courts","2021-03-02T00:55:00.000Z","shopping-centers","general-indoors, general-outdoors",""
+"shopping-malls","Shopping malls","","shopping-malls","Can open indoors with modifications
+- Max 25% capacity
+- Closed common areas
+- Closed food courts","Can open indoors with modifications
+- Max 50% capacity
+- Closed common areas
+- Reduced capacity food courts (see Restaurants)","Can open indoors with modifications
+- Closed common areas
+- Reduced capacity food courts (see Restaurants)","Can open with modifications
+- Reduced capacity food courts (see Restaurants)","Can open indoors with modifications
+- Max 20% capacity
+- Closed common areas
+- Closed food courts","2021-03-31T01:22:00.000Z","shopping-centers","general-indoors, general-outdoors",""
+"short-term-lodging-rentals","Short-term lodging rentals","Hotels, lodging, and short-term lodging rentals","short-term-lodging-rentals","Can open with modifications","Can open with modifications
+- +Fitness centers (+10%)","Can open with modifications
+- +Fitness centers (+25%)
+- +Indoor pools","Can open with modifications
+- +Fitness Centers (50%)
+- +Spa facilities, etc.","Closed for in-state reservations unless used for COVID-19 mitigation and containment measures, treatment measures, accommodation for essential workers or those displaced as a result of fire or other emergency, or housing solutions, including measures to protect homeless populations. Open for non-essential, out-of-state reservations so long as reservation is at least the minimum time period required for quarantine.","2021-03-31T01:22:00.000Z","hotels-lodging-rentals","general-indoors, general-outdoors",""
+"skateparks","Skateparks","Outdoor recreation, including campgrounds, playgrounds and ski resorts","skateparks","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications 
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
+"skin-care-services","Skin care services","Personal care services","skin-care-services","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-02T02:03:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"small-private-gatherings","Small private gatherings","","small-private-gatherings","Are allowed outdoors only with modifications
+
+- Masks and physical distancing required
+- No more than 3 separate households attend (including the host's)
+- Gatherings should be 2 hours or less
+- Those with symptoms must not attend
+- Those at high risk of severe illness strongly encouraged not to attend
+- Singing, shouting, chanting, cheering, or exercising strongly discouraged","Are allowed outdoors and indoors with modifications
+
+- Masks and physical distancing required
+- No more than 3 separate households attend (including the host's)
+- Gatherings should be 2 hours or less
+- Those with symptoms must not attend
+- Those at high risk of severe illness strongly encouraged not to attend
+- Singing, shouting, chanting, cheering, or exercising strongly discouraged outdoors and not permitted indoors ","Are allowed outdoors and indoors with modifications
+
+- Masks and physical distancing required
+- No more than 3 separate households attend (including the host's)
+- Gatherings should be 2 hours or less
+- Those with symptoms must not attend
+- Those at high risk of severe illness strongly encouraged not to attend
+- Singing, shouting, chanting, cheering, or exercising strongly discouraged outdoors and not permitted indoors ","Are allowed outdoors and indoors with modifications
+
+- Masks and physical distancing required
+- No more than 3 separate households attend (including the host's)
+- Gatherings should be 2 hours or less
+- Those with symptoms must not attend
+- Those at high risk of severe illness strongly encouraged not to attend
+- Singing, shouting, chanting, cheering, or exercising strongly discouraged outdoors and not permitted indoors ","Closed","2021-03-31T01:22:00.000Z","gatherings-holidays","general-indoors, general-outdoors",""
+"sporting-goods-stores","Sporting goods stores","","sporting-goods-stores","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"state-local-government-offices","State and local government offices","","state-local-government-offices","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","office-workspaces","general-indoors, general-outdoors",""
+"swap-meets","Swap meets","","swap-meets","Can open with modifications
+- Max 25% capacity
+- Closed common areas
+- Closed food courts","Can open with modifications
+- Max 50% capacity
+- Closed common areas
+- Reduced capacity food courts (see Restaurants)","Can open with modifications
+- Closed common areas
+- Reduced capacity food courts (see Restaurants)","Can open with modifications
+- Reduced capacity food courts (see Restaurants)","Can open indoors with modifications
+- Max 20% capacity
+- Closed common areas
+- Closed food courts","2021-03-31T01:22:00.000Z","shopping-centers","general-indoors, general-outdoors",""
+"swimming-pools","Swimming pools","Gyms and fitness centers - Outdoor recreation, including campgrounds and playgrounds - Hotels and lodging","swimming-pools","Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.","Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.","Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.","Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.","Can open outdoors with modifications. Drowning prevention classes, including swim lessons with certified instructors, are permitted indoors and outdoors.","2021-03-02T02:03:00.000Z","fitness, hotels-lodging-rentals, campgrounds-outdoor-recreation, swimming-pools","general-indoors, general-outdoors",""
+"synagogues","Synagogues","","synagogues","Can open indoors with modifications
+- Indoor activities strongly discouraged 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"take-out-restaurants","Restaurants (take-out and delivery)","Restaurants","take-out-restaurants","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","restaurants-bars-wineries","general-indoors, general-outdoors",""
+"tattoo-parlors","Tattoo parlors","Personal care services","tattoo-parlors","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Can open indoors with modifications","Closed","2021-03-02T02:03:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"temples","Temples","","temples","Can open indoors with modifications
+- Indoor activities strongly discouraged 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 25% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open indoors with modifications 
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"toy-stores","Toy stores","Retailers","toy-stores","Can open with modifications 
+- Max 25% capacity","Can open with modifications 
+- Max 50% capacity","Can open with modifications","Can open with modifications","Can open with modifications 
+- Max 20% capacity
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","retail","general-indoors, general-outdoors",""
+"transit-rail","Public transit and intercity passenger rail","","transit-rail","","","","","","2021-03-02T00:55:00.000Z","transit-rail","general-indoors, general-outdoors",""
+"weddings","Weddings","","weddings","","Indoor ceremonies permitted with modifications. Outdoor and indoor receptions permitted for up to three households, including host and guests. Indoor receptions are strongly discouraged. Food and beverages are not permitted.
+– Max 25% capacity","Indoor ceremonies permitted with modifications. Outdoor and indoor receptions permitted for up to three households, including host and guests. Indoor receptions are strongly discouraged.
+– Max 50% capacity","Indoor ceremonies permitted with modifications. Outdoor and indoor receptions permitted for up to three households, including host and guests. Indoor receptions are strongly discouraged.
+– Max 50% capacity","Outdoors only with modifications","2021-03-31T01:22:00.000Z","places-of-worship","general-indoors, general-outdoors",""
+"wineries","Wineries and tasting rooms","","wineries","Can open outdoors only with modifications","Can open outdoors only with modifications","Can open indoors with modifications<br>– Max 25% capacity indoors, or 100 people, whichever is fewer","Can open indoors with modifications<br>– Max 50% capacity or 200 people indoors, whichever is fewer","Closed for on-site consumption. May continue with production, manufacturing, distribution, and retail sale for off-site consumption.","2021-03-16T01:25:00.000Z","wineries","general-indoors, general-outdoors",""
+"yoga-studios","Yoga studios","","yoga-studios","Can open outdoors only with modifications","Can open indoors with modifications
+- Max 10% capacity","Can open indoors with modifications
+- Max 25% capacity
+- +Indoor pools","Can open indoors with modifications 
+- +Saunas
+- +Spas
+- +Steam rooms
+- Max 50% capacity","Can open outdoors only with modifications","2021-03-31T01:22:00.000Z","fitness","general-indoors, general-outdoors",""
+"youth-sports","Youth and adult recreational sports","","youth-sports","Some outdoor low-contact sports permitted. Higher-contact outdoor sports may be permitted, subject to additional requirements. See list.","Some outdoor moderate-contact sports permitted. Higher-contact outdoor sports may be permitted, subject to additional requirements. See list.","Some outdoor high-contact sports allowed, and some indoor low-contact sports permitted. See list.","Some indoor moderate-contact sports allowed, and some indoor high-contact sports permitted. See list.","Outdoor physical conditioning and practice permitted with 6 feet of physical distancing from others.","2021-03-31T01:22:00.000Z","youth-sports","general-indoors, general-outdoors",""
+"zoos","Zoos","","zoos","Can open outdoors only with modifications","Can open indoors with modifications
+- Indoor activities max 25% capacity","Can open indoors with modifications
+- Indoor activities max 50% capacity","Can open indoors with modifications","Closed","2021-03-31T01:22:00.000Z","zoos-museums","general-indoors, general-outdoors",""
+"zoos-museums-aquariums","Museums, zoos, and aquariums","","zoos-museums-aquariums","","","","","","2021-03-02T00:55:00.000Z","zoos-museums","general-indoors, general-outdoors",""
+"cardrooms-racetracks","Cardrooms and racetracks","","cardrooms-racetracks","","","","","","2021-03-02T00:55:00.000Z","cardrooms-racetracks, outdoor-cardrooms","general-indoors, general-outdoors",""
+"expanded-personal-care-services","Expanded Personal Care Services","Personal care services","expanded-personal-care-services","","","","","","2021-03-02T02:16:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
+"limited-services","Limited services","","limited-services","","","","","","2021-03-02T00:55:00.000Z","limited-services","general-indoors, general-outdoors",""
+"funeral homes","Funeral homes","","funeral-homes","Outdoor ceremonies permitted and recommended. Indoor ceremonies are strongly discouraged, due to high risk of transmission, but legally permitted with max capacity of 25%. Food and beverages are not permitted.","Can open indoors with modifications
+– Max 25% capacity, food and beverages are not permitted","Can open indoors with modifications 
+- Max 50% capacity","Can open indoors with modifications 
+- Max 50% capacity","Services held outdoors only with modifications","2021-03-31T01:22:00.000Z","","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"restaurants-dine-in","Restaurants (dine-in)","Restaurants","restaurants-dine-in","Can open outdoors only with modifications","Can open indoors with modifications 
+- Max 25% capacity or 100 people, whichever is fewer","Can open indoors with modifications 
+- Max 50% capacity or 200 people, whichever is fewer ","Can open indoors with modifications 
+- Max 50% capacity","Closed","2021-03-31T01:22:00.000Z","restaurants-bars-wineries","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"ski-resorts","Ski resorts","","ski-resorts","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications 
+- No food or beverages sold for onsite consumption","2021-03-31T01:22:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"state-beaches","State beaches","","state-beaches","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications. On-site campgrounds are closed unless used for COVID-19 mitigation and containment measures, treatment measures, providing accommodation for essential workers or those displaced as a result of fire or other emergency, or providing housing solutions, including measures to protect homeless populations.","2021-03-02T02:25:00.000Z","","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"state-forests","State forests","","state-forests","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications. On-site campgrounds are closed unless used for COVID-19 mitigation and containment measures, treatment measures, providing accommodation for essential workers or those displaced as a result of fire or other emergency, or providing housing solutions, including measures to protect homeless populations.","2021-03-02T02:25:00.000Z","","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"state-managed-lakes-reservoirs","State-managed lakes and reservoirs","","state-managed-lakes-reservoirs","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications. On-site campgrounds are closed unless used for COVID-19 mitigation and containment measures, treatment measures, providing accommodation for essential workers or those displaced as a result of fire or other emergency, or providing housing solutions, including measures to protect homeless populations.","2021-03-02T02:25:00.000Z","","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"state-parks","State parks","","state-parks","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications. On-site campgrounds are closed unless used for COVID-19 mitigation and containment measures, treatment measures, providing accommodation for essential workers or those displaced as a result of fire or other emergency, or providing housing solutions, including measures to protect homeless populations.","2021-03-02T02:25:00.000Z","","general-indoors, general-outdoors","general-indoors, general-outdoors"
+"theme-parks","Theme parks","","theme-parks","Closed","Closed","Smaller parks open with modifications
+- 25% capacity or 500 people, whichever is fewer
+- Outdoor attractions only
+- In-county visitors only
+- Reservations or advance tickets required","Larger parks open with modifications
+- 25% capacity
+- Reservations or advance tickets required","Closed","2021-03-31T01:22:00.000Z","amusement-theme-parks","general-indoors, general-outdoors","general-indoors, general-outdoors"

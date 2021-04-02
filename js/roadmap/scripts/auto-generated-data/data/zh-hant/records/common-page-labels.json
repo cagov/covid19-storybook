@@ -1,0 +1,9 @@
+{
+  "Table6": [
+    {
+      "schools_may_reopen": "學校可能重新完全開放面授教學。當地的學校官員將決定是否以及何時重新開放。",
+      "schools_may_not_reopen": "若學校所在的縣處於「重度」（紅色）等級有5天時間，則學校可能重新完全開放面授教學。學校官員<a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx\">可能決定對一小部分學生以群組的方式進行面授教學</a>。<br><br>例外情況注意：如果所在縣處於限制較小的等級，已經重新開放的學校則不必關閉。但是，如果學校尚未重新開放面授教學，則在該縣連續5天回到嚴重（紅色）等級之前，它可能不會重新開放。",
+      "schools_info": "請參閱 <a href=\"https://schools.covid19.ca.gov/\">加州全民安全校園中心</a>、<a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Consolidated_Schools_Guidance.pdf\">學校指引</a>以及<a href=\"https://files.covid19.ca.gov/pdf/guidance-schools-cohort-FAQ.pdf\">群組常見問題解答</a>。"
+    }
+  ]
+}

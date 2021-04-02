@@ -1,0 +1,62 @@
+{
+  "Table1": [
+    {
+      "County tier": "أدنى حد",
+      "colorLabel": "أصفر",
+      "_Color label": "Yellow",
+      "New cases": "أقل من 1.0",
+      "Positive tests": "أقل من 2.0%",
+      "description": "معظم العمليات التجارية الداخلية مفتوحة مع إجراء بعض التعديلات",
+      "Positive-heq": "أقل من 2.2%"
+    },
+    {
+      "County tier": "متوسط",
+      "colorLabel": "برتقالي",
+      "_Color label": "Orange",
+      "New cases": "1.0 – 3.9",
+      "Positive tests": "2.0 – 4.9% ",
+      "description": "بعض العمليات التجارية الداخلية مفتوحة مع إجراء بعض التعديلات",
+      "Positive-heq": "2.2 – 5.2%"
+    },
+    {
+      "County tier": "كبير",
+      "colorLabel": "أحمر",
+      "_Color label": "Red",
+      "New cases": "4.0 – 7.0",
+      "Positive tests": "5.0 – 8.0%",
+      "description": "بعض العمليات التجارية الداخلية غير الضرورية مغلقة",
+      "Positive-heq": "5.3 – 8.0%"
+    },
+    {
+      "County tier": "واسع الانتشار",
+      "colorLabel": "بنفسجي",
+      "_Color label": "Purple",
+      "New cases": "أكثر من 7.0",
+      "Positive tests": "أكثر من 8.0%",
+      "description": "العديد من العمليات التجارية الداخلية غير الضرورية مغلقة",
+      "Positive-heq": ""
+    }
+  ],
+  "Table2": [
+    {
+      "_id": "Header – county risk level",
+      "text": "مستوى الخطر في المقاطعة"
+    },
+    {
+      "_id": "Header – new cases",
+      "text": "معدل الحالات المنضبطة"
+    },
+    {
+      "_id": "Header – positive tests",
+      "text": "معدل إيجابية الاختبارات"
+    },
+    {
+      "_id": "Description – new cases",
+      "text": "الحالات الجديدة اليومية (لكل 100 ألف)"
+    },
+    {
+      "_id": "Description – positive cases",
+      "text": "اختبارات إيجابية"
+    }
+  ]
+}

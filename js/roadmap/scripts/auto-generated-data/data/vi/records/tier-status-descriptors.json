@@ -1,0 +1,62 @@
+{
+  "Table1": [
+    {
+      "County tier": "Tối thiểu",
+      "colorLabel": "Màu vàng",
+      "_Color label": "Yellow",
+      "New cases": "Dưới 1.0",
+      "Positive tests": "Dưới 2.0%",
+      "description": "Hầu hết các hoạt động kinh doanh trong nhà đều được phép mở cửa với điều chỉnh sửa đổi",
+      "Positive-heq": "Dưới 2.2%"
+    },
+    {
+      "County tier": "Trung bình",
+      "colorLabel": "Màu cam",
+      "_Color label": "Orange",
+      "New cases": "1.0 – 3.9",
+      "Positive tests": "2.0 – 4.9% ",
+      "description": "Một số hoạt động kinh doanh trong nhà được phép mở cửa với điều chỉnh sửa đổi",
+      "Positive-heq": "2.2 – 5.2%"
+    },
+    {
+      "County tier": "Nghiêm trọng",
+      "colorLabel": "Màu đỏ",
+      "_Color label": "Red",
+      "New cases": "4.0 – 7.0",
+      "Positive tests": "5.0 – 8.0%",
+      "description": "Một số hoạt động kinh doanh trong nhà không thiết yếu phải đóng cửa",
+      "Positive-heq": "5.3 – 8.0%"
+    },
+    {
+      "County tier": "Lan rộng",
+      "colorLabel": "Màu tím",
+      "_Color label": "Purple",
+      "New cases": "Hơn 7.0",
+      "Positive tests": "Hơn 8.0%",
+      "description": "Nhiều hoạt động kinh doanh trong nhà không thiết yếu phải đóng cửa",
+      "Positive-heq": ""
+    }
+  ],
+  "Table2": [
+    {
+      "_id": "Header – county risk level",
+      "text": "Mức độ nguy cơ của quận"
+    },
+    {
+      "_id": "Header – new cases",
+      "text": "Tỷ lệ số ca được điều chỉnh"
+    },
+    {
+      "_id": "Header – positive tests",
+      "text": "Tỷ lệ dương tính"
+    },
+    {
+      "_id": "Description – new cases",
+      "text": "Số ca mắc mới trong ngày (mỗi 100k)"
+    },
+    {
+      "_id": "Description – positive cases",
+      "text": "Xét nghiệm dương tính"
+    }
+  ]
+}

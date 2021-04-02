@@ -1,0 +1,9 @@
+{
+  "Table6": [
+    {
+      "schools_may_reopen": "Puwedeng ganap na muling magbukas ang mga paaralan para sa personal na pagtuturo. Ang mga lokal na opisyal ng paaralan ang magpapasya kung kailan iyon mangyayari.",
+      "schools_may_not_reopen": "Hindi puwedeng ganap na muling magbukas ang mga paaralan para sa personal na pagtuturo hangga't wala pang 5 araw na nasa (pulang) tier na Marami ang kanilang county. <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx\">Puwedeng magpasya ang mga opisyal ng paaralan na magsagawa ng personal na pagtuturo</a> para sa limitadong hanay ng mga mag-aaral na nasa maliliit na cohort.<br><br>Paalala sa pagbubukod: Hindi kailangang magsara ng mga paaralang muli nang nakapagbukas kung nasa hindi masyadong mahigpit na tier ang county. Gayunpaman, kung hindi pa muling nakakapagbukas ang isang paaralan para sa personal na pagtuturo, hindi ito puwedeng muling magbukas hangga't hindi bumabalik ang county sa (pulang) tier na Marami sa loob ng 5 magkakasunod na araw.",
+      "schools_info": "Tingnan ang <a href=\"https://schools.covid19.ca.gov/\">Hub ng CA na Mga Ligtas na Paaralan para sa Lahat</a>, <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Consolidated_Schools_Guidance.pdf\">gabay sa mga paaralan</a>, at <a href=\"https://files.covid19.ca.gov/pdf/guidance-schools-cohort-FAQ.pdf\">FAQ tungkol sa paggawa ng mga cohort</a>."
+    }
+  ]
+}

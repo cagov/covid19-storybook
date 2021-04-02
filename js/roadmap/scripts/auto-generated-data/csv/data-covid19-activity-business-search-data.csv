@@ -210,8 +210,8 @@
 - Reservations required
 - Assigned seating only
 - In-seat concessions only (no concourse sales)","Can open with modifications
-- No live audience","2021-03-31T01:22:00.000Z","outdoor-live-professional-sports, cardrooms-racetracks","general-indoors, general-outdoors",""
-"outdoor-live-professional-sports","Outdoor live professional sports","Outdoor live professional sports","outdoor-live-professional-sports","","","","","","2021-03-02T02:19:00.000Z","outdoor-live-professional-sports","general-indoors, general-outdoors",""
+- No live audience","2021-04-02T17:57:00.000Z","cardrooms-racetracks","general-indoors, general-outdoors",""
+"outdoor-live-professional-sports","Outdoor live professional sports","Outdoor live professional sports","outdoor-live-professional-sports","","","","","","2021-04-02T17:57:00.000Z","","general-indoors, general-outdoors",""
 "outdoor-playgrounds","Outdoor playgrounds","Outdoor recreation, including campgrounds, playgrounds, and ski resorts","outdoor-playgrounds","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","2021-03-02T02:03:00.000Z","campgrounds-outdoor-recreation","general-indoors, general-outdoors",""
 "outdoor-recreation","Outdoor recreation","Outdoor recreation","outdoor-recreation","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications","Can open with modifications
 - No food or beverages sold for onsite consumption
@@ -249,7 +249,7 @@
 - In-state attendees only
 - Advanced reservations only
 - Restricted concessions and dining","Can open with modifications
-- No live audience","2021-03-31T01:22:00.000Z","professional-sports, outdoor-live-professional-sports","general-indoors, general-outdoors",""
+- No live audience","2021-04-02T17:58:00.000Z","","general-indoors, general-outdoors",""
 "real-estate","Real estate transactions","","real-estate","","","","","","2021-03-02T00:55:00.000Z","real-estate","general-indoors, general-outdoors",""
 "restaurants-bars-wineries","Restaurants, wineries, and bars","Restaurants","restaurants-bars-wineries","","","","","","2021-03-02T00:55:00.000Z","restaurants-bars-wineries, bars, wineries","general-indoors, general-outdoors",""
 "retail","Retail","","retail","Can open with modifications<br>– Max 25% capacity","Can open with modifications<br>– Max 50% capacity","Can open with modifications","Can open with modifications","","2021-03-02T02:27:00.000Z","retail","general-indoors, general-outdoors",""
@@ -371,7 +371,7 @@
 "zoos-museums-aquariums","Museums, zoos, and aquariums","","zoos-museums-aquariums","","","","","","2021-03-02T00:55:00.000Z","zoos-museums","general-indoors, general-outdoors",""
 "cardrooms-racetracks","Cardrooms and racetracks","","cardrooms-racetracks","","","","","","2021-03-02T00:55:00.000Z","cardrooms-racetracks, outdoor-cardrooms","general-indoors, general-outdoors",""
 "expanded-personal-care-services","Expanded Personal Care Services","Personal care services","expanded-personal-care-services","","","","","","2021-03-02T02:16:00.000Z","expanded-personal-care-services","general-indoors, general-outdoors",""
-"limited-services","Limited services","","limited-services","","","","","","2021-03-02T00:55:00.000Z","limited-services","general-indoors, general-outdoors",""
+"limited-services","Limited services","","limited-services","","","","","","2021-04-02T17:51:00.000Z","limited-services","general-indoors, general-outdoors",""
 "funeral homes","Funeral homes","","funeral-homes","Outdoor ceremonies permitted and recommended. Indoor ceremonies are strongly discouraged, due to high risk of transmission, but legally permitted with max capacity of 25%. Food and beverages are not permitted.","Can open indoors with modifications
 – Max 25% capacity, food and beverages are not permitted","Can open indoors with modifications 
 - Max 50% capacity","Can open indoors with modifications 
